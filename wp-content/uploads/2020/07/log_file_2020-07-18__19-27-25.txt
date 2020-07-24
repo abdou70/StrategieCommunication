@@ -1,0 +1,93 @@
+
+---Downloaded files---
+The import files for: Charity Homepage were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress1
+Data file = /opt/lampp/htdocs/wordpress1/wp-content/plugins/elegant-blocks/theme/bizberg/demo/demo-content.xml
+Widget file = not defined!
+Customizer file = /opt/lampp/htdocs/wordpress1/wp-content/plugins/elegant-blocks/theme/bizberg/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

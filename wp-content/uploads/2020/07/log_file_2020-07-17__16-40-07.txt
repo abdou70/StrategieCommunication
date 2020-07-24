@@ -1,0 +1,124 @@
+
+---Downloaded files---
+The import files for: Homepage Free were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress1
+Data file = /opt/lampp/htdocs/wordpress1/wp-content/plugins/cyclone-demo-importer//themes/professional-education-consultancy-lite/inc/content.xml
+Widget file = not defined!
+Customizer file = /opt/lampp/htdocs/wordpress1/wp-content/plugins/cyclone-demo-importer//themes/professional-education-consultancy-lite/inc/options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+[ERROR] Failed to import "pexels-photo-668137" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1699414" (Fichier média)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Background-website-01" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Background-website-01" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Background-website-01" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-photo-1595391" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "kids-girl-pencil-drawing-159823" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "kids-girl-pencil-drawing-159823" (Fichier média)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

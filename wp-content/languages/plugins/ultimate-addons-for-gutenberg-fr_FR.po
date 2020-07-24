@@ -1,0 +1,3729 @@
+# Translation of Plugins - Gutenberg Blocks – Ultimate Addons for Gutenberg - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Gutenberg Blocks – Ultimate Addons for Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-17 17:17:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Gutenberg Blocks – Ultimate Addons for Gutenberg - Stable (latest release)\n"
+
+#: dist/blocks.build.js:77905
+msgid "Alignment"
+msgstr "Alignement"
+
+#: dist/blocks.build.js:90541
+msgid "Icon Settings"
+msgstr "Réglages des icônes"
+
+#: dist/blocks.build.js:88940
+msgid "Icon Alignment"
+msgstr "Alignement de l’icône"
+
+#: dist/blocks.build.js:88204 dist/blocks.build.js:90633
+msgid "Icon Color Settings"
+msgstr "Réglages de la couleur de l’icône"
+
+#: dist/blocks.build.js:88135
+msgid "Social Share Settings"
+msgstr "Réglages des partages sociaux"
+
+#: dist/blocks.build.js:78888
+msgid "Padding (px)"
+msgstr "Marge interne (px)"
+
+#: dist/blocks.build.js:77246 dist/blocks.build.js:100850
+msgid "Box Shadow"
+msgstr "Ombre de la boîte"
+
+#: dist/blocks.build.js:60984
+msgid "Next Text"
+msgstr "Texte suivant"
+
+#: dist/blocks.build.js:60979
+msgid "Previous Text"
+msgstr "Texte précédent"
+
+#: dist/blocks.build.js:60884
+msgid "Border Size"
+msgstr "Taille de la bordure"
+
+#: dist/blocks.build.js:60814
+msgid "Page Limit"
+msgstr "Limite de la page"
+
+#: dist/blocks.build.js:60721
+msgid "Posts Per Page"
+msgstr "Publications par page"
+
+#: classes/class-uagb-config.php:1052
+msgid "This block allows you to style button."
+msgstr "Ce bloc vous autorise à styliser le bouton."
+
+#: classes/class-uagb-config.php:1647
+msgid "Social Share Child"
+msgstr "Partage social enfant"
+
+#: dist/blocks.build.js:109793
+msgid "Bullet Points Color"
+msgstr "Couleur des puces"
+
+#: dist/blocks.build.js:78740
+msgid "Button Settings"
+msgstr "Réglages du bouton"
+
+#: dist/blocks.build.js:60809
+msgid "Post Pagination"
+msgstr "Pagination de publication"
+
+#: admin/uagb-general.php:191
+msgid "Inadequate File Permission"
+msgstr "Droit sur le fichier inadéquat"
+
+#: dist/blocks.build.js:60973
+msgid "This spacing is between the Post Grid and the Pagination"
+msgstr "Cet espace est situé entre la grille des publications et la pagination"
+
+#: dist/blocks.build.js:60866
+msgid "Background Active Color"
+msgstr "Couleur active d’arrière-plan"
+
+#: dist/blocks.build.js:77250 dist/blocks.build.js:100854
+msgid "Blur"
+msgstr "Flou"
+
+#: dist/blocks.build.js:60920
+msgid "Border Active Color"
+msgstr "Couleur active de la bordure"
+
+#: dist/blocks.build.js:60833
+msgid "Filled"
+msgstr "Remplis"
+
+#: dist/blocks.build.js:77929
+msgid "Note: The gap between the buttons will seem larger in the editor, for better user edit experience. But at frontend the gap will be exactly what is set from here."
+msgstr "Remarque : l’espace entre les boutons semblera plus grand dans l’éditeur, pour une meilleure expérience de modification par l’utilisateur. Mais sur le coté public, l’espace sera exactement le même que celui qui est réglé depuis ici."
+
+#: dist/blocks.build.js:87133
+msgid "Note: The gap between the items will seem larger in the editor, for better user edit experience. But at frontend the gap will be exactly what is set from here."
+msgstr "Remarque : l’écart entre les éléments paraîtra plus grand dans l’éditeur, pour une meilleure expérience de modification par l’utilisateur. Mais sur le coté public, l’écart entre les éléments sera exactement le même que celui qui est réglé ici."
+
+#: dist/blocks.build.js:60823
+msgid "Pagination"
+msgstr "Mise en page"
+
+#: dist/blocks.build.js:60836
+msgid "Pagination Alignment"
+msgstr "Alignement de la pagination"
+
+#: dist/blocks.build.js:60828
+msgid "Pagination Layout"
+msgstr "Disposition de la mise en page"
+
+#: dist/blocks.build.js:77251 dist/blocks.build.js:100855
+msgid "Spread"
+msgstr "Propager"
+
+#: dist/blocks.build.js:60953
+msgid "Text Active Color"
+msgstr "Couleur active du texte"
+
+#: dist/blocks.build.js:88946
+msgid "Note: This manages the Icon Position with respect to the Label."
+msgstr "Remarque  : ceci gère la position de l’icône par rapport au libellé."
+
+#: dist/blocks.build.js:88925
+msgid "Note: For better editing experience, the gap between items might look larger than applied.  Viewing in frontend will show the actual results."
+msgstr "Remarque : pour une meilleure expérience de modification, l’écart entre les éléments peut sembler plus important que celui qui est appliqué. La vue sur interface publique affichera les résultats réels."
+
+#: classes/class-uagb-admin.php:425
+msgid "Access Denied. You don't have enough capabilities to execute this action."
+msgstr "Accès refusé. Vous n’avez pas les permissions suffisantes pour exécuter cette action."
+
+#: admin/uagb-general.php:161
+msgid "CSS File Generation"
+msgstr "Génération du fichier CSS"
+
+#: dist/blocks.build.js:61272 dist/blocks.build.js:63039
+#: dist/blocks.build.js:72018
+msgid "p"
+msgstr "p"
+
+#: dist/blocks.build.js:61272 dist/blocks.build.js:63039
+#: dist/blocks.build.js:72018
+msgid "span"
+msgstr "span"
+
+#: dist/blocks.build.js:93397 dist/blocks.build.js:94893
+msgid "Date Format"
+msgstr "Format de date"
+
+#: dist/blocks.build.js:99624
+msgid "Curve"
+msgstr "Courbe"
+
+#: dist/blocks.build.js:99624
+msgid "Pyramids"
+msgstr "Pyramides"
+
+#: dist/blocks.build.js:99624
+msgid "Waves Pattern"
+msgstr "Motif des ondes"
+
+#: dist/blocks.build.js:93402
+msgid "Normal Text"
+msgstr "Texte normal"
+
+#: dist/blocks.build.js:99624
+msgid "ZigZag"
+msgstr "Zigzag"
+
+#: dist/blocks.build.js:99624
+msgid "Arrow"
+msgstr "Flèche"
+
+#: dist/blocks.build.js:99624
+msgid "Arrow Split"
+msgstr "Flèche partagée"
+
+#: dist/blocks.build.js:99624
+msgid "Book"
+msgstr "Livre"
+
+#: dist/blocks.build.js:99624
+msgid "Curve Asymmetrical"
+msgstr "Courbe asymétrique"
+
+#: dist/blocks.build.js:99624
+msgid "Fan Opacity"
+msgstr "Opacité des ventilateurs"
+
+#: dist/blocks.build.js:99624
+msgid "Tilt Opacity"
+msgstr "Opacité de l’inclinaison"
+
+#: dist/blocks.build.js:99624
+msgid "Triangle Asymmetrical"
+msgstr "Triangle asymétrique"
+
+#: dist/blocks.build.js:99624
+msgid "Clouds"
+msgstr "Clouds"
+
+#: dist/blocks.build.js:99624
+msgid "Drops"
+msgstr "Drops"
+
+#: dist/blocks.build.js:110650
+msgid "Table Of Contents"
+msgstr "Table des matières"
+
+#: dist/blocks.build.js:109254
+msgid "table of contents"
+msgstr "table des matières"
+
+#: dist/blocks.build.js:78747
+msgid " Color Settings"
+msgstr " Réglage des couleurs"
+
+#: dist/blocks.build.js:91555
+msgid "$19"
+msgstr "$19"
+
+#: dist/blocks.build.js:18378
+msgid "$9"
+msgstr "$9"
+
+#: dist/blocks.build.js:85519
+msgid "Above"
+msgstr "Au-dessus"
+
+#: dist/blocks.build.js:81707
+msgid "Above Title"
+msgstr "Au-dessus du titre"
+
+#: dist/blocks.build.js:101850 dist/blocks.build.js:103847
+msgid "Active Border Color"
+msgstr "Couleur de la bordure active"
+
+#: dist/blocks.build.js:108770
+msgid "Add Button Description…"
+msgstr "Ajouter un bouton de description…"
+
+#: dist/blocks.build.js:108744
+msgid "Add Button Title…"
+msgstr "Ajouter un titre au bouton…"
+
+#: dist/blocks.build.js:79331
+msgid "Add text…"
+msgstr "Ajouter du texte…"
+
+#: dist/blocks.build.js:88470
+msgid "Address"
+msgstr "Adresse"
+
+#: dist/blocks.build.js:104589
+msgid "Advanced Settings"
+msgstr "Réglages avancés"
+
+#: dist/blocks.build.js:80914
+msgid "After Description"
+msgstr "Après la description"
+
+#: dist/blocks.build.js:80914
+msgid "After Icon/Image"
+msgstr "Après l’icône/image"
+
+#: dist/blocks.build.js:80914
+msgid "After Prefix"
+msgstr "Après le préfixe"
+
+#: dist/blocks.build.js:81059 dist/blocks.build.js:96586
+#: dist/blocks.build.js:108114
+msgid "After Text"
+msgstr "Après le texte"
+
+#: dist/blocks.build.js:80914
+msgid "After Title"
+msgstr "Après le titre"
+
+#: dist/blocks.build.js:60669 dist/blocks.build.js:62631
+#: dist/blocks.build.js:71515 dist/blocks.build.js:94453
+msgid "All"
+msgstr "Tous"
+
+#: dist/blocks.build.js:77018 dist/blocks.build.js:77104
+#: dist/blocks.build.js:98720 dist/blocks.build.js:98780
+#: dist/blocks.build.js:100677 dist/blocks.build.js:108601
+msgid "Angle"
+msgstr "Angle"
+
+#: dist/blocks.build.js:83583
+msgid "Arrow & Dots Color"
+msgstr "Couleur des flèches & des points"
+
+#: dist/blocks.build.js:93526 dist/blocks.build.js:94839
+msgid "Arrow Alignment"
+msgstr "Alignement de la flêche"
+
+#: dist/blocks.build.js:71731 dist/blocks.build.js:84012
+msgid "Arrow Border Radius"
+msgstr "Rayon de bordure de flèche"
+
+#: dist/blocks.build.js:71722 dist/blocks.build.js:84003
+msgid "Arrow Border Size"
+msgstr "Taille de la bordure de flèche"
+
+#: dist/blocks.build.js:71713 dist/blocks.build.js:83994
+msgid "Arrow Size"
+msgstr "Taille de la flèche"
+
+#: dist/blocks.build.js:71699
+msgid "Arrows & Dots"
+msgstr "Flèches et points"
+
+#: dist/blocks.build.js:72169
+msgid "Arrows & Dots Color"
+msgstr "Couleur des flèches et des points"
+
+#: dist/blocks.build.js:60741 dist/blocks.build.js:62701
+#: dist/blocks.build.js:71585 dist/blocks.build.js:94824
+msgid "Ascending"
+msgstr "Croissant"
+
+#: dist/blocks.build.js:76900 dist/blocks.build.js:98620
+#: dist/blocks.build.js:100565
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+#: dist/blocks.build.js:95203 dist/blocks.build.js:106757
+msgid "Author Bottom Spacing"
+msgstr "Espacement inférieur de l’auteur"
+
+#: dist/blocks.build.js:94690 dist/blocks.build.js:106532
+msgid "Author Color"
+msgstr "Couleur de l’auteur"
+
+#: dist/blocks.build.js:106268
+msgid "Author Image"
+msgstr "Image de l’auteur"
+
+#: dist/blocks.build.js:106293
+msgid "Author Image Position"
+msgstr "Position de l’image de l’auteur"
+
+#: dist/blocks.build.js:106320
+msgid "Author Image Rounded Corners"
+msgstr "Image de l’auteur coins arrondis"
+
+#: dist/blocks.build.js:106301
+msgid "Author Image Size"
+msgstr "Taille de l’image de l’auteur"
+
+#: dist/blocks.build.js:106309
+msgid "Author Image Width"
+msgstr "Largeur de l’image de l’auteur"
+
+#: dist/blocks.build.js:76921 dist/blocks.build.js:83752
+#: dist/blocks.build.js:98641 dist/blocks.build.js:100586
+msgid "Auto"
+msgstr "Auto"
+
+#: dist/blocks.build.js:71664 dist/blocks.build.js:83955
+msgid "Autoplay"
+msgstr "Lecture automatique"
+
+#: dist/blocks.build.js:71671 dist/blocks.build.js:83960
+msgid "Autoplay Speed (ms)"
+msgstr "Vitesse de lecture automatique (millisecondes)"
+
+#: dist/blocks.build.js:61014 dist/blocks.build.js:62786
+#: dist/blocks.build.js:71765 dist/blocks.build.js:76830
+#: dist/blocks.build.js:83669 dist/blocks.build.js:98550
+#: dist/blocks.build.js:100495 dist/blocks.build.js:108345
+#: dist/blocks.build.js:110008
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: dist/blocks.build.js:60583 dist/blocks.build.js:60850
+#: dist/blocks.build.js:62545 dist/blocks.build.js:71429
+#: dist/blocks.build.js:76845 dist/blocks.build.js:78788
+#: dist/blocks.build.js:81266 dist/blocks.build.js:83684
+#: dist/blocks.build.js:93263 dist/blocks.build.js:93291
+#: dist/blocks.build.js:93723 dist/blocks.build.js:94560
+#: dist/blocks.build.js:94590 dist/blocks.build.js:94640
+#: dist/blocks.build.js:96754 dist/blocks.build.js:98565
+#: dist/blocks.build.js:100510 dist/blocks.build.js:102073
+#: dist/blocks.build.js:102383 dist/blocks.build.js:103959
+#: dist/blocks.build.js:104131 dist/blocks.build.js:104441
+#: dist/blocks.build.js:108538 dist/blocks.build.js:109663
+#: dist/blocks.build.js:110013
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: dist/blocks.build.js:60527 dist/blocks.build.js:62489
+#: dist/blocks.build.js:71373 dist/blocks.build.js:78844
+#: dist/blocks.build.js:81326 dist/blocks.build.js:96814
+#: dist/blocks.build.js:102133 dist/blocks.build.js:104191
+#: dist/blocks.build.js:106444 dist/blocks.build.js:108628
+msgid "Background Hover Color"
+msgstr "Couleur d'arrière plan au survol"
+
+#: dist/blocks.build.js:76867 dist/blocks.build.js:83706
+#: dist/blocks.build.js:98587 dist/blocks.build.js:100532
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: dist/blocks.build.js:61022 dist/blocks.build.js:62794
+#: dist/blocks.build.js:71773
+msgid "Background Overlay Color"
+msgstr "Couleur de superposition de l’arrière plan"
+
+#: dist/blocks.build.js:87107 dist/blocks.build.js:89047
+#: dist/blocks.build.js:106129 dist/blocks.build.js:106147
+#: dist/blocks.build.js:106165
+msgid "Background Size"
+msgstr "Taille de l’arrière-plan"
+
+#: dist/blocks.build.js:76832 dist/blocks.build.js:83671
+#: dist/blocks.build.js:98552 dist/blocks.build.js:100497
+#: dist/blocks.build.js:108525
+msgid "Background Type"
+msgstr "Type d’arrière-plan"
+
+#: dist/blocks.build.js:77126 dist/blocks.build.js:100699
+msgid "Background Video"
+msgstr "Couleur d’arrière-plan de la vidéo"
+
+#: dist/blocks.build.js:81059 dist/blocks.build.js:96586
+#: dist/blocks.build.js:108114
+msgid "Before Text"
+msgstr "Avant le texte"
+
+#: dist/blocks.build.js:81707
+msgid "Below Title"
+msgstr "En dessous du titre"
+
+#: dist/blocks.build.js:95148
+msgid "Block Padding"
+msgstr "Marge interne du bloc"
+
+#: dist/blocks.build.js:61352 dist/blocks.build.js:63119
+#: dist/blocks.build.js:72098
+msgid "Blog Background Color"
+msgstr "Couleur d’arrière-plan du blog"
+
+#: dist/blocks.build.js:88139
+msgid "Blogger"
+msgstr "Blogger"
+
+#: dist/blocks.build.js:60833 dist/blocks.build.js:77194
+#: dist/blocks.build.js:78913 dist/blocks.build.js:83791
+#: dist/blocks.build.js:89057 dist/blocks.build.js:97931
+#: dist/blocks.build.js:100798 dist/blocks.build.js:108657
+#: dist/blocks.build.js:110585
+msgid "Border"
+msgstr "Bordure"
+
+#: dist/blocks.build.js:60544 dist/blocks.build.js:62506
+#: dist/blocks.build.js:71390 dist/blocks.build.js:78861
+#: dist/blocks.build.js:81346 dist/blocks.build.js:96834
+#: dist/blocks.build.js:102153 dist/blocks.build.js:104211
+#: dist/blocks.build.js:106406 dist/blocks.build.js:108709
+msgid "Border Hover Color"
+msgstr "Couleur de bordure au survol"
+
+#: dist/blocks.build.js:60893 dist/blocks.build.js:77214
+#: dist/blocks.build.js:83836 dist/blocks.build.js:87117
+#: dist/blocks.build.js:89067 dist/blocks.build.js:97951
+#: dist/blocks.build.js:100818 dist/blocks.build.js:101817
+#: dist/blocks.build.js:102039 dist/blocks.build.js:102452
+#: dist/blocks.build.js:103814 dist/blocks.build.js:104097
+#: dist/blocks.build.js:104510 dist/blocks.build.js:108677
+#: dist/blocks.build.js:110606
+msgid "Border Radius"
+msgstr "Rayon de la bordure"
+
+#: dist/blocks.build.js:77196 dist/blocks.build.js:83793
+#: dist/blocks.build.js:97933 dist/blocks.build.js:100800
+#: dist/blocks.build.js:101781 dist/blocks.build.js:102003
+#: dist/blocks.build.js:103778 dist/blocks.build.js:104061
+#: dist/blocks.build.js:108659 dist/blocks.build.js:110588
+msgid "Border Style"
+msgstr "Style de bordure"
+
+#: dist/blocks.build.js:77204 dist/blocks.build.js:83804
+#: dist/blocks.build.js:93682 dist/blocks.build.js:95122
+#: dist/blocks.build.js:97941 dist/blocks.build.js:100808
+#: dist/blocks.build.js:108667 dist/blocks.build.js:110596
+msgid "Border Width"
+msgstr "Largeur de la bordure"
+
+#: dist/blocks.build.js:101789 dist/blocks.build.js:102011
+#: dist/blocks.build.js:102424 dist/blocks.build.js:103786
+#: dist/blocks.build.js:104069 dist/blocks.build.js:104482
+msgid "Border Width (px)"
+msgstr "Largeur de la bordure (px)"
+
+#: dist/blocks.build.js:60600 dist/blocks.build.js:60904
+#: dist/blocks.build.js:62562 dist/blocks.build.js:71446
+#: dist/blocks.build.js:77229 dist/blocks.build.js:78805
+#: dist/blocks.build.js:81286 dist/blocks.build.js:83819
+#: dist/blocks.build.js:93269 dist/blocks.build.js:93297
+#: dist/blocks.build.js:94566 dist/blocks.build.js:94596
+#: dist/blocks.build.js:96774 dist/blocks.build.js:97966
+#: dist/blocks.build.js:100833 dist/blocks.build.js:101832
+#: dist/blocks.build.js:102093 dist/blocks.build.js:102464
+#: dist/blocks.build.js:103829 dist/blocks.build.js:104151
+#: dist/blocks.build.js:104522 dist/blocks.build.js:106342
+#: dist/blocks.build.js:108692 dist/blocks.build.js:110621
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: dist/blocks.build.js:71707 dist/blocks.build.js:83988
+msgid "Both Arrows & Dots"
+msgstr "Les deux flèches et points"
+
+#: dist/blocks.build.js:84154 dist/blocks.build.js:93531
+#: dist/blocks.build.js:94844 dist/blocks.build.js:100778
+msgid "Bottom"
+msgstr "Bas"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Bottom Center"
+msgstr "En bas au centre"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: dist/blocks.build.js:102502
+msgid "Bottom Right Side of Field"
+msgstr "Côté inférieur droit du champ"
+
+#: dist/blocks.build.js:109688
+msgid "Bottom Space"
+msgstr "Espace en bas"
+
+#: dist/blocks.build.js:101778 dist/blocks.build.js:103775
+msgid "Box"
+msgstr "Boîte"
+
+#: dist/blocks.build.js:76277
+msgid "Boxed"
+msgstr "Encadré"
+
+#: dist/blocks.build.js:99746 dist/blocks.build.js:99875
+msgid "Bring To Front"
+msgstr "Mettre en avant"
+
+#: dist/blocks.build.js:106817
+msgid "Bubble"
+msgstr "Bulle"
+
+#: classes/class-uagb-config.php:1051 dist/blocks.build.js:80997
+#: dist/blocks.build.js:96517 dist/blocks.build.js:96524
+msgid "Button"
+msgstr "Bouton"
+
+#: dist/blocks.build.js:102174 dist/blocks.build.js:104232
+msgid "Button Alignment"
+msgstr "Alignement du bouton"
+
+#: dist/blocks.build.js:108522
+msgid "Button Background"
+msgstr "Arrière-plan du bouton"
+
+#: dist/blocks.build.js:61165 dist/blocks.build.js:62937
+#: dist/blocks.build.js:71916 dist/blocks.build.js:81109
+#: dist/blocks.build.js:96638
+msgid "Button Border"
+msgstr "Bordure de bouton"
+
+#: dist/blocks.build.js:61227 dist/blocks.build.js:62999
+#: dist/blocks.build.js:71978
+msgid "Button Colors"
+msgstr "Couleur des boutons"
+
+#: dist/blocks.build.js:102184 dist/blocks.build.js:104242
+msgid "Button Font"
+msgstr "Police du bouton"
+
+#: dist/blocks.build.js:81047 dist/blocks.build.js:96571
+#: dist/blocks.build.js:108093
+msgid "Button Icon"
+msgstr "Icône du bouton"
+
+#: dist/blocks.build.js:81081 dist/blocks.build.js:108390
+#: dist/blocks.build.js:108438 dist/blocks.build.js:108486
+msgid "Button Padding"
+msgstr "Marges internes du bouton"
+
+#: dist/blocks.build.js:61199 dist/blocks.build.js:62971
+#: dist/blocks.build.js:71950 dist/blocks.build.js:96608
+#: dist/blocks.build.js:102237 dist/blocks.build.js:104295
+#: dist/blocks.build.js:106875
+msgid "Button Padding (px)"
+msgstr "Marge intérieure du bouton (px)"
+
+#: dist/blocks.build.js:97042
+msgid "Button Position"
+msgstr "Position du bouton"
+
+#: dist/blocks.build.js:61135 dist/blocks.build.js:62907
+#: dist/blocks.build.js:71886
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: dist/blocks.build.js:101423
+msgid "CF7 styler"
+msgstr "Stylisateur CF7"
+
+#: dist/blocks.build.js:95064
+msgid "CTA"
+msgstr "CTA"
+
+#: dist/blocks.build.js:94749
+msgid "CTA Background Color"
+msgstr "Couleur de l’arrière-plan du CTA"
+
+#: dist/blocks.build.js:94732
+msgid "CTA Color"
+msgstr "Couleur du CTA"
+
+#: dist/blocks.build.js:71896
+msgid "CTA Tag"
+msgstr "Étiquette CTA"
+
+#: dist/blocks.build.js:94928
+msgid "CTA Text"
+msgstr "Texte du CTA"
+
+#: dist/blocks.build.js:96857
+msgid "CTA Text Color"
+msgstr "Couleur de texte du CTA"
+
+#: dist/blocks.build.js:96879
+msgid "CTA Text Hover Color"
+msgstr "Couleur du texte au survol du CTA"
+
+#: dist/blocks.build.js:71655 dist/blocks.build.js:83948
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: dist/blocks.build.js:60841 dist/blocks.build.js:93523
+#: dist/blocks.build.js:93531 dist/blocks.build.js:94836
+#: dist/blocks.build.js:94844 dist/blocks.build.js:102179
+#: dist/blocks.build.js:104033 dist/blocks.build.js:104237
+#: dist/blocks.build.js:108087
+msgid "Center"
+msgstr "Centré"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Center Center"
+msgstr "Centré au centre"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Center Left"
+msgstr "Centré à gauche"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Center Right"
+msgstr "Centré à droite"
+
+#: dist/blocks.build.js:84183 dist/blocks.build.js:85536
+msgid "Circle"
+msgstr "Cercle"
+
+#: dist/blocks.build.js:106817
+msgid "Classic"
+msgstr "Classique"
+
+#: dist/blocks.build.js:78185
+msgid "Click Here"
+msgstr "Cliquez ici"
+
+#: dist/blocks.build.js:109735
+msgid "Collapsible"
+msgstr "Déployable"
+
+#: dist/blocks.build.js:60566 dist/blocks.build.js:62528
+#: dist/blocks.build.js:71412 dist/blocks.build.js:76837
+#: dist/blocks.build.js:76929 dist/blocks.build.js:77247
+#: dist/blocks.build.js:83676 dist/blocks.build.js:96932
+#: dist/blocks.build.js:96972 dist/blocks.build.js:98557
+#: dist/blocks.build.js:98649 dist/blocks.build.js:99643
+#: dist/blocks.build.js:99772 dist/blocks.build.js:100502
+#: dist/blocks.build.js:100851 dist/blocks.build.js:101894
+#: dist/blocks.build.js:101934 dist/blocks.build.js:103901
+#: dist/blocks.build.js:103942 dist/blocks.build.js:108530
+msgid "Color"
+msgstr "Couleur"
+
+#: dist/blocks.build.js:76958 dist/blocks.build.js:77044
+#: dist/blocks.build.js:98682 dist/blocks.build.js:98742
+#: dist/blocks.build.js:100617 dist/blocks.build.js:108563
+msgid "Color 1"
+msgstr "Couleur 1"
+
+#: dist/blocks.build.js:76985 dist/blocks.build.js:77071
+#: dist/blocks.build.js:98688 dist/blocks.build.js:98748
+#: dist/blocks.build.js:100644 dist/blocks.build.js:108569
+msgid "Color 2"
+msgstr "Couleur 2"
+
+#: dist/blocks.build.js:83558 dist/blocks.build.js:85821
+#: dist/blocks.build.js:91299 dist/blocks.build.js:93245
+#: dist/blocks.build.js:93273 dist/blocks.build.js:93704
+#: dist/blocks.build.js:94541 dist/blocks.build.js:94571
+#: dist/blocks.build.js:94634 dist/blocks.build.js:98676
+#: dist/blocks.build.js:98736 dist/blocks.build.js:108557
+msgid "Color Settings"
+msgstr "Réglages de couleur"
+
+#: dist/blocks.build.js:61348 dist/blocks.build.js:63115
+#: dist/blocks.build.js:72094 dist/blocks.build.js:108205
+msgid "Colors"
+msgstr "Couleurs"
+
+#: dist/blocks.build.js:61435 dist/blocks.build.js:63202
+#: dist/blocks.build.js:91454 dist/blocks.build.js:100035
+msgid "Column Gap"
+msgstr "Écart de colonne"
+
+#: dist/blocks.build.js:60764 dist/blocks.build.js:60774
+#: dist/blocks.build.js:60784 dist/blocks.build.js:62724
+#: dist/blocks.build.js:62734 dist/blocks.build.js:62744
+#: dist/blocks.build.js:71608 dist/blocks.build.js:71618
+#: dist/blocks.build.js:71628 dist/blocks.build.js:84096
+#: dist/blocks.build.js:84106 dist/blocks.build.js:84116
+#: dist/blocks.build.js:91596 dist/blocks.build.js:91606
+#: dist/blocks.build.js:91616 dist/blocks.build.js:99978
+#: dist/blocks.build.js:110187 dist/blocks.build.js:110197
+#: dist/blocks.build.js:110207
+msgid "Columns"
+msgstr "Colonnes"
+
+#: dist/blocks.build.js:83537
+msgid "Company"
+msgstr "Entreprise"
+
+#: dist/blocks.build.js:83577
+msgid "Company Color"
+msgstr "Couleur de l’entreprise"
+
+#: dist/blocks.build.js:80997 dist/blocks.build.js:96524
+msgid "Complete Box"
+msgstr "Remplir la boite"
+
+#: dist/blocks.build.js:93659 dist/blocks.build.js:95099
+msgid "Connector"
+msgstr "Connecteur"
+
+#: dist/blocks.build.js:93303 dist/blocks.build.js:94602
+msgid "Connector Color Settings"
+msgstr "Réglages de couleur du connecteur"
+
+#: dist/blocks.build.js:93692 dist/blocks.build.js:95132
+msgid "Connector Width"
+msgstr "Largeur du connecteur"
+
+#: dist/blocks.build.js:76921 dist/blocks.build.js:83752
+#: dist/blocks.build.js:98641 dist/blocks.build.js:100586
+msgid "Contain"
+msgstr "Contient"
+
+#: dist/blocks.build.js:99996
+msgid "Container Width"
+msgstr "Largeur du conteneur"
+
+#: dist/blocks.build.js:61057 dist/blocks.build.js:62829
+#: dist/blocks.build.js:71808 dist/blocks.build.js:81366
+#: dist/blocks.build.js:91255 dist/blocks.build.js:93637
+#: dist/blocks.build.js:94877 dist/blocks.build.js:94983
+#: dist/blocks.build.js:96898 dist/blocks.build.js:101868
+#: dist/blocks.build.js:103865 dist/blocks.build.js:106466
+#: dist/blocks.build.js:108155 dist/blocks.build.js:109681
+#: dist/blocks.build.js:109778
+msgid "Content"
+msgstr "Contenu"
+
+#: dist/blocks.build.js:95214
+msgid "Content Bottom Spacing"
+msgstr "Espacement inférieur du contenu"
+
+#: dist/blocks.build.js:91312 dist/blocks.build.js:93717
+#: dist/blocks.build.js:94711 dist/blocks.build.js:109970
+msgid "Content Color"
+msgstr "Couleur du contenu"
+
+#: dist/blocks.build.js:109987
+msgid "Content Hover Color"
+msgstr "Couleur du contenu au survol"
+
+#: dist/blocks.build.js:97015
+msgid "Content Left Margin"
+msgstr "Marge gauche du contenu"
+
+#: dist/blocks.build.js:61446 dist/blocks.build.js:63213
+#: dist/blocks.build.js:72209 dist/blocks.build.js:83613
+#: dist/blocks.build.js:95159
+msgid "Content Padding"
+msgstr "Marge intérieure"
+
+#: dist/blocks.build.js:61456 dist/blocks.build.js:63223
+#: dist/blocks.build.js:72219
+msgid "Content Padding (Mobile)"
+msgstr "Marge intérieure du contenu (mobile)"
+
+#: dist/blocks.build.js:97026
+msgid "Content Right Margin"
+msgstr "Marge droite du contenu"
+
+#: dist/blocks.build.js:93640
+msgid "Content Tag"
+msgstr "Étiquette de contenu"
+
+#: dist/blocks.build.js:76272
+msgid "Content Width"
+msgstr "Largeur du Contenu"
+
+#: dist/blocks.build.js:97062 dist/blocks.build.js:98011
+#: dist/blocks.build.js:98023 dist/blocks.build.js:98035
+msgid "Content Width (%)"
+msgstr "Largeur du contenu (%)"
+
+#: dist/blocks.build.js:76921 dist/blocks.build.js:83752
+#: dist/blocks.build.js:98641 dist/blocks.build.js:100586
+msgid "Cover"
+msgstr "Couvrir"
+
+#: dist/blocks.build.js:106858
+msgid "Current Page"
+msgstr "Page actuelle"
+
+#: dist/blocks.build.js:100001
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: dist/blocks.build.js:106858
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: dist/blocks.build.js:81662 dist/blocks.build.js:110029
+msgid "Custom Width"
+msgstr "Largeur personnalisée"
+
+#: dist/blocks.build.js:60733 dist/blocks.build.js:62693
+#: dist/blocks.build.js:71577 dist/blocks.build.js:93338
+#: dist/blocks.build.js:94816 dist/blocks.build.js:95010
+msgid "Date"
+msgstr "Date"
+
+#: dist/blocks.build.js:93408 dist/blocks.build.js:95225
+msgid "Date Bottom Spacing"
+msgstr "Espacement inférieur de la date"
+
+#: dist/blocks.build.js:93424 dist/blocks.build.js:94648
+msgid "Date Color"
+msgstr "Couleur de la date"
+
+#: dist/blocks.build.js:93390
+msgid "Date Settings"
+msgstr "Réglages date"
+
+#: dist/blocks.build.js:93442
+msgid "Date Typography"
+msgstr "Typographie"
+
+#: dist/blocks.build.js:100040
+msgid "Default (10px)"
+msgstr "Par défaut (10px)"
+
+#: dist/blocks.build.js:60741 dist/blocks.build.js:62701
+#: dist/blocks.build.js:71585 dist/blocks.build.js:94824
+msgid "Descending"
+msgstr "Décroissant"
+
+#: dist/blocks.build.js:85783 dist/blocks.build.js:90527
+#: dist/blocks.build.js:96950 dist/blocks.build.js:108182
+msgid "Description"
+msgstr "Description"
+
+#: dist/blocks.build.js:81552 dist/blocks.build.js:97004
+msgid "Description Bottom Margin"
+msgstr "Marge inférieure de description"
+
+#: dist/blocks.build.js:85883
+msgid "Description Bottom Spacing"
+msgstr "Espacement inférieur de la description"
+
+#: dist/blocks.build.js:81497 dist/blocks.build.js:85840
+#: dist/blocks.build.js:108263
+msgid "Description Color"
+msgstr "Couleur de la description"
+
+#: dist/blocks.build.js:108319
+msgid "Description Hover Color"
+msgstr "Couleur de la description au survol"
+
+#: dist/blocks.build.js:85872
+msgid "Designation Bottom Spacing"
+msgstr "Espacement inférieur de la désignation"
+
+#: dist/blocks.build.js:85834
+msgid "Designation Color"
+msgstr "Couleur de la désignation"
+
+#: dist/blocks.build.js:77937 dist/blocks.build.js:87019
+msgid "Desktop"
+msgstr "Ordinateur de bureau"
+
+#: dist/blocks.build.js:88139
+msgid "Digg"
+msgstr "Digg"
+
+#: dist/blocks.build.js:109781
+msgid "Disable Bullet Points"
+msgstr "Désactiver les puces"
+
+#: dist/blocks.build.js:90600
+msgid "Disable Link"
+msgstr "Désactiver le lien"
+
+#: dist/blocks.build.js:94918
+msgid "Display Continue Reading Link"
+msgstr "Affichage du lien pour continuer la lecture"
+
+#: dist/blocks.build.js:94860
+msgid "Display Featured Image"
+msgstr "Afficher l’image mise en avant"
+
+#: dist/blocks.build.js:94879
+msgid "Display Post Author"
+msgstr "Afficher l’auteur de la publication"
+
+#: dist/blocks.build.js:93392 dist/blocks.build.js:94886
+msgid "Display Post Date"
+msgstr "Afficher la date de publication"
+
+#: dist/blocks.build.js:94901
+msgid "Display Post Excerpt"
+msgstr "Affichez l’extrait de la publication"
+
+#: dist/blocks.build.js:88139
+msgid "Email"
+msgstr "E-mail"
+
+#: dist/blocks.build.js:81468
+msgid "Enable Description"
+msgstr "Activer la Description"
+
+#: dist/blocks.build.js:81368
+msgid "Enable Prefix"
+msgstr "Activer Le préfixe"
+
+#: dist/blocks.build.js:85574
+msgid "Enable Social Links"
+msgstr "Activer les liens sociaux"
+
+#: dist/blocks.build.js:81414
+msgid "Enable Title"
+msgstr "Activer le Titre"
+
+#: dist/blocks.build.js:106794
+msgid "Enable Twitter Icon"
+msgstr "Activer l’icône Twitter"
+
+#: dist/blocks.build.js:85651
+msgid "Enter Facebook URL"
+msgstr "Saisissez votre URL Facebook"
+
+#: dist/blocks.build.js:85683
+msgid "Enter LinkedIn URL"
+msgstr "Saisissez votre URL LinkedIn"
+
+#: dist/blocks.build.js:85715
+msgid "Enter Pinterest URL"
+msgstr "Saisissez votre URL Pinterest"
+
+#: dist/blocks.build.js:85355
+msgid "Enter Prefix"
+msgstr "Saisissez le préfixe"
+
+#: dist/blocks.build.js:85619
+msgid "Enter Twitter URL"
+msgstr "Saisissez votre URL Twitter"
+
+#: dist/blocks.build.js:90619 dist/blocks.build.js:108072
+msgid "Enter URL"
+msgstr "Saisissez l’URL"
+
+#: dist/blocks.build.js:60802 dist/blocks.build.js:71646
+msgid "Equal Height"
+msgstr "Hauteur égale"
+
+#: dist/blocks.build.js:102677
+msgid "Error Message"
+msgstr "Message d’erreur"
+
+#: dist/blocks.build.js:104663
+msgid "Error Message Background Color"
+msgstr "Arrière-plan du message d’erreur"
+
+#: dist/blocks.build.js:104680
+msgid "Error Message Border Color"
+msgstr "Couleur de la bordure du message d’erreur"
+
+#: dist/blocks.build.js:104646
+msgid "Error Message Color"
+msgstr "Couleur du message d’erreur"
+
+#: dist/blocks.build.js:61325 dist/blocks.build.js:63092
+#: dist/blocks.build.js:72071
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: dist/blocks.build.js:61487 dist/blocks.build.js:63254
+#: dist/blocks.build.js:72250
+msgid "Excerpt Bottom Spacing"
+msgstr "Espacement inférieur de l’extrait"
+
+#: dist/blocks.build.js:61405 dist/blocks.build.js:63172
+#: dist/blocks.build.js:72151
+msgid "Excerpt Color"
+msgstr "Couleur de l’extrait"
+
+#: dist/blocks.build.js:61101 dist/blocks.build.js:62873
+#: dist/blocks.build.js:71852 dist/blocks.build.js:94908
+msgid "Excerpt Length"
+msgstr "Longueur de l’extrait"
+
+#: dist/blocks.build.js:100040
+msgid "Extended (15px)"
+msgstr "Étendu (15px)"
+
+#: dist/blocks.build.js:85624 dist/blocks.build.js:88139
+msgid "Facebook"
+msgstr "Facebook"
+
+#: dist/blocks.build.js:94867
+msgid "Featured Image Style"
+msgstr "Style de l’image mise en avant"
+
+#: dist/blocks.build.js:101952 dist/blocks.build.js:104601
+msgid "Field Background Color"
+msgstr "Couleur d’arrière-plan du champ"
+
+#: dist/blocks.build.js:102290 dist/blocks.build.js:104348
+msgid "Field Padding (px)"
+msgstr "Marge interne du champ (px)"
+
+#: dist/blocks.build.js:101773 dist/blocks.build.js:103770
+msgid "Field Style"
+msgstr "Style du champ"
+
+#: dist/blocks.build.js:101771 dist/blocks.build.js:103768
+msgid "Field Style & Border"
+msgstr "Style & bordure du champ"
+
+#: dist/blocks.build.js:102494 dist/blocks.build.js:104552
+msgid "Field Validation"
+msgstr "Champ de validation"
+
+#: dist/blocks.build.js:102277 dist/blocks.build.js:104335
+msgid "Fields Space"
+msgstr "Espace des champs"
+
+#: dist/blocks.build.js:76905 dist/blocks.build.js:98625
+#: dist/blocks.build.js:100570
+msgid "Fixed"
+msgstr "Corrigé"
+
+#: dist/blocks.build.js:99739 dist/blocks.build.js:99868
+msgid "Flip"
+msgstr "Retourner"
+
+#: dist/blocks.build.js:93314 dist/blocks.build.js:94613
+msgid "Focus"
+msgstr "Focus"
+
+#: dist/blocks.build.js:104641
+msgid "Form Error Validation"
+msgstr "Erreur dans la validation du formulaire"
+
+#: dist/blocks.build.js:102597
+msgid "Form Success / Error Validation"
+msgstr "Formulaire de validation succès/erreur"
+
+#: dist/blocks.build.js:104780
+msgid "Form Success Validation"
+msgstr "Validation de la réussite du formulaire"
+
+#: dist/blocks.build.js:76277
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: dist/blocks.build.js:103401
+msgid "GF styler"
+msgstr "Stylisateur GF"
+
+#: dist/blocks.build.js:106736
+msgid "Gap Between Border and Quote"
+msgstr "Écart entre la bordure et la citation"
+
+#: dist/blocks.build.js:77924
+msgid "Gap Between Buttons"
+msgstr "Écart entre les boutons"
+
+#: dist/blocks.build.js:83593
+msgid "Gap Between Content & Dots"
+msgstr "Écart entre le contenu et les points"
+
+#: dist/blocks.build.js:109852 dist/blocks.build.js:109890
+#: dist/blocks.build.js:109928
+msgid "Gap Between Lists"
+msgstr "Écart entes les listes"
+
+#: dist/blocks.build.js:72198
+msgid "Gap Between Posts & Dots"
+msgstr "Écart entre les postes et les points"
+
+#: dist/blocks.build.js:88930
+msgid "Gap between Icon and Label"
+msgstr "Écart entre les icônes et les libellés"
+
+#: dist/blocks.build.js:87128 dist/blocks.build.js:88920
+msgid "Gap between Items"
+msgstr "Écart entre les éléments"
+
+#: dist/blocks.build.js:88139
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: dist/blocks.build.js:76837 dist/blocks.build.js:76929
+#: dist/blocks.build.js:98557 dist/blocks.build.js:98649
+#: dist/blocks.build.js:100502 dist/blocks.build.js:108530
+msgid "Gradient"
+msgstr "Inclinaison"
+
+#: dist/blocks.build.js:77201 dist/blocks.build.js:83798
+#: dist/blocks.build.js:91331 dist/blocks.build.js:97938
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:108664 dist/blocks.build.js:110593
+msgid "Groove"
+msgstr "Rainure"
+
+#: dist/blocks.build.js:76327 dist/blocks.build.js:100044
+msgid "HTML Tag"
+msgstr "Balise HTML"
+
+#: dist/blocks.build.js:96993
+msgid "Heading Bottom Margin"
+msgstr "Marge inférieure du titre"
+
+#: dist/blocks.build.js:93567 dist/blocks.build.js:95192
+msgid "Heading Bottom Spacing"
+msgstr "Espacement inférieur du titre"
+
+#: dist/blocks.build.js:88491 dist/blocks.build.js:99698
+#: dist/blocks.build.js:99709 dist/blocks.build.js:99720
+#: dist/blocks.build.js:99827 dist/blocks.build.js:99838
+#: dist/blocks.build.js:99849
+msgid "Height"
+msgstr "Hauteur"
+
+#: dist/blocks.build.js:104025
+msgid "Hide"
+msgstr "Masquer"
+
+#: dist/blocks.build.js:88912
+msgid "Hide Labels"
+msgstr "Masquer les libellés"
+
+#: dist/blocks.build.js:102578 dist/blocks.build.js:104622
+msgid "Highlight Border Color"
+msgstr "Couleur de soulignement de la bordure"
+
+#: dist/blocks.build.js:102566
+msgid "Highlight Borders"
+msgstr "Soulignement des bordures"
+
+#: dist/blocks.build.js:77248 dist/blocks.build.js:87008
+#: dist/blocks.build.js:88893 dist/blocks.build.js:100852
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: dist/blocks.build.js:93547 dist/blocks.build.js:95170
+msgid "Horizontal Space"
+msgstr "Espace horizontal"
+
+#: dist/blocks.build.js:61239 dist/blocks.build.js:63011
+#: dist/blocks.build.js:71990 dist/blocks.build.js:78759
+#: dist/blocks.build.js:80843 dist/blocks.build.js:81157
+#: dist/blocks.build.js:81224 dist/blocks.build.js:88067
+#: dist/blocks.build.js:90455 dist/blocks.build.js:96685
+#: dist/blocks.build.js:96712 dist/blocks.build.js:102216
+#: dist/blocks.build.js:104274 dist/blocks.build.js:106232
+#: dist/blocks.build.js:106932 dist/blocks.build.js:108217
+msgid "Hover"
+msgstr "Survol"
+
+#: dist/blocks.build.js:60510 dist/blocks.build.js:62472
+#: dist/blocks.build.js:71356 dist/blocks.build.js:106427
+msgid "Hover Color"
+msgstr "Couleur au survol"
+
+#: classes/class-uagb-config.php:839 dist/blocks.build.js:81725
+#: dist/blocks.build.js:85596 dist/blocks.build.js:85628
+#: dist/blocks.build.js:85660 dist/blocks.build.js:85692
+#: dist/blocks.build.js:88145 dist/blocks.build.js:88156
+#: dist/blocks.build.js:90545 dist/blocks.build.js:90556
+#: dist/blocks.build.js:106809
+msgid "Icon"
+msgstr "Icône"
+
+#: dist/blocks.build.js:106809
+msgid "Icon & Text"
+msgstr "Icône et texte"
+
+#: dist/blocks.build.js:88002 dist/blocks.build.js:90339
+#: dist/blocks.build.js:106380
+msgid "Icon Background Color"
+msgstr "Couleur de l’arrière-plan de l’icône"
+
+#: dist/blocks.build.js:88040 dist/blocks.build.js:90411
+msgid "Icon Background Hover Color"
+msgstr "Couleur d’arrière-plan de l’icône au survol"
+
+#: dist/blocks.build.js:93672 dist/blocks.build.js:95112
+msgid "Icon Background Size"
+msgstr "Taille de l’arrière-plan de l’icône"
+
+#: dist/blocks.build.js:90356
+msgid "Icon Border Color"
+msgstr "Couleur de bordure de l’icône"
+
+#: dist/blocks.build.js:90428
+msgid "Icon Border Hover Color"
+msgstr "Couleur de la bordure de l’icône au survol"
+
+#: dist/blocks.build.js:80855 dist/blocks.build.js:87985
+#: dist/blocks.build.js:90322 dist/blocks.build.js:93257
+#: dist/blocks.build.js:93285 dist/blocks.build.js:94554
+#: dist/blocks.build.js:94584 dist/blocks.build.js:106363
+#: dist/blocks.build.js:108246 dist/blocks.build.js:109646
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: dist/blocks.build.js:80877 dist/blocks.build.js:88023
+#: dist/blocks.build.js:90394 dist/blocks.build.js:108302
+msgid "Icon Hover Color"
+msgstr "Couleur de l’icône au survol"
+
+#: dist/blocks.build.js:81054 dist/blocks.build.js:96581
+#: dist/blocks.build.js:108109
+msgid "Icon Position"
+msgstr "Position de l’icône"
+
+#: dist/blocks.build.js:80823 dist/blocks.build.js:89007
+#: dist/blocks.build.js:93662 dist/blocks.build.js:95102
+#: dist/blocks.build.js:108128 dist/blocks.build.js:108135
+#: dist/blocks.build.js:109756
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: dist/blocks.build.js:81062 dist/blocks.build.js:96589
+#: dist/blocks.build.js:108117
+msgid "Icon Spacing"
+msgstr "Espacement Icônes"
+
+#: dist/blocks.build.js:106812
+msgid "Icon Style"
+msgstr "Style de l’icône"
+
+#: dist/blocks.build.js:106804
+msgid "Icon View"
+msgstr "Voir l’icône"
+
+#: dist/blocks.build.js:60992 dist/blocks.build.js:62764
+#: dist/blocks.build.js:71743 dist/blocks.build.js:76837
+#: dist/blocks.build.js:81629 dist/blocks.build.js:81725
+#: dist/blocks.build.js:83676 dist/blocks.build.js:83909
+#: dist/blocks.build.js:84138 dist/blocks.build.js:85486
+#: dist/blocks.build.js:88145 dist/blocks.build.js:90545
+#: dist/blocks.build.js:91391 dist/blocks.build.js:91636
+#: dist/blocks.build.js:94858 dist/blocks.build.js:98557
+#: dist/blocks.build.js:100502
+msgid "Image"
+msgstr "Image"
+
+#: dist/blocks.build.js:88143 dist/blocks.build.js:90543
+msgid "Image / Icon"
+msgstr "Image/icône"
+
+#: dist/blocks.build.js:87941 dist/blocks.build.js:90210
+msgid "Image Background Color"
+msgstr "Couleur d’arrière-plan de l’image"
+
+#: dist/blocks.build.js:87962 dist/blocks.build.js:90265
+msgid "Image Background Hover Color"
+msgstr "Couleur d’arrière-plan de l’image au survol"
+
+#: dist/blocks.build.js:90227
+msgid "Image Border Color"
+msgstr "Couleur de bordure de l’image"
+
+#: dist/blocks.build.js:90282
+msgid "Image Border Hover Color"
+msgstr "Couleur de la bordure de l’image au survol"
+
+#: dist/blocks.build.js:83643
+msgid "Image Horizontal Padding"
+msgstr "Marge interne horizontale"
+
+#: dist/blocks.build.js:85909
+msgid "Image Margin (px)"
+msgstr "Marge d’image (px)"
+
+#: dist/blocks.build.js:76937 dist/blocks.build.js:83760
+#: dist/blocks.build.js:98657 dist/blocks.build.js:100594
+msgid "Image Overlay Color"
+msgstr "Couleur de superposition d’image"
+
+#: dist/blocks.build.js:76924 dist/blocks.build.js:98644
+msgid "Image Overlay Type"
+msgstr "Type de superposition d’image"
+
+#: dist/blocks.build.js:91508
+msgid "Image Padding (px)"
+msgstr "Marge interne pour l’image (px)"
+
+#: dist/blocks.build.js:61009 dist/blocks.build.js:62781
+#: dist/blocks.build.js:71760 dist/blocks.build.js:76892
+#: dist/blocks.build.js:83731 dist/blocks.build.js:84149
+#: dist/blocks.build.js:91645 dist/blocks.build.js:98612
+#: dist/blocks.build.js:100557
+msgid "Image Position"
+msgstr "Position de l’image"
+
+#: dist/blocks.build.js:81654 dist/blocks.build.js:84186
+#: dist/blocks.build.js:91674
+msgid "Image Size"
+msgstr "Taille de l’image"
+
+#: dist/blocks.build.js:61001 dist/blocks.build.js:62773
+#: dist/blocks.build.js:71752
+msgid "Image Sizes"
+msgstr "Tailles des images"
+
+#: dist/blocks.build.js:84178 dist/blocks.build.js:85531
+msgid "Image Style"
+msgstr "Style de l’image"
+
+#: dist/blocks.build.js:83653
+msgid "Image Vertical Padding"
+msgstr "Marge interne verticale"
+
+#: dist/blocks.build.js:81700
+msgid "Image/Icon"
+msgstr "Image/icône"
+
+#: dist/blocks.build.js:81566
+msgid "Image/Icon Margin (px)"
+msgstr "Marge d’image/icône (px)"
+
+#: dist/blocks.build.js:71680 dist/blocks.build.js:83969
+msgid "Infinite Loop"
+msgstr "Boucle infinie"
+
+#: dist/blocks.build.js:76289
+msgid "Inherit Inner Width from Theme"
+msgstr "Héritage de la largeur du thème"
+
+#: dist/blocks.build.js:106990
+msgid "Inline Quote"
+msgstr "Citation en ligne"
+
+#: dist/blocks.build.js:76317 dist/blocks.build.js:100025
+msgid "Inner Width"
+msgstr "Largeur intérieure"
+
+#: dist/blocks.build.js:101912 dist/blocks.build.js:103920
+msgid "Input"
+msgstr "Entrée"
+
+#: dist/blocks.build.js:85893
+msgid "Inter Social Icon Spacing"
+msgstr "Espacement d’icône sociale"
+
+#: dist/blocks.build.js:91477
+msgid "Item Padding (px)"
+msgstr "Marge interne de l’élément (px)"
+
+#: dist/blocks.build.js:102179 dist/blocks.build.js:104237
+msgid "Justified"
+msgstr "Justifié"
+
+#: dist/blocks.build.js:109748
+msgid "Keep Collapsed Initially"
+msgstr "Maintenir plié au départ"
+
+#: dist/blocks.build.js:101872 dist/blocks.build.js:103879
+#: dist/blocks.build.js:106825
+msgid "Label"
+msgstr "Libellé"
+
+#: dist/blocks.build.js:102267 dist/blocks.build.js:104325
+msgid "Label & Input Space"
+msgstr "Libellé & espace de saisie"
+
+#: dist/blocks.build.js:102366 dist/blocks.build.js:104424
+msgid "Label Color"
+msgstr "Couleur du libellé"
+
+#: dist/blocks.build.js:90521
+msgid "Label Name"
+msgstr "Nom du libellé"
+
+#: dist/blocks.build.js:80509 dist/blocks.build.js:83849
+#: dist/blocks.build.js:85052 dist/blocks.build.js:91381
+#: dist/blocks.build.js:105984
+msgid "Large"
+msgstr "Grand"
+
+#: dist/blocks.build.js:76270 dist/blocks.build.js:87006
+#: dist/blocks.build.js:88891 dist/blocks.build.js:93516
+#: dist/blocks.build.js:94829 dist/blocks.build.js:97040
+#: dist/blocks.build.js:97989 dist/blocks.build.js:99976
+#: dist/blocks.build.js:106200 dist/blocks.build.js:106202
+msgid "Layout"
+msgstr "Mise en page"
+
+#: dist/blocks.build.js:60841 dist/blocks.build.js:84154
+#: dist/blocks.build.js:85519 dist/blocks.build.js:91650
+#: dist/blocks.build.js:93523 dist/blocks.build.js:94836
+#: dist/blocks.build.js:102179 dist/blocks.build.js:104033
+#: dist/blocks.build.js:104237 dist/blocks.build.js:106298
+#: dist/blocks.build.js:108087
+msgid "Left"
+msgstr "Gauche"
+
+#: dist/blocks.build.js:81707
+msgid "Left of Text and Title"
+msgstr "À gauche du texte et du titre"
+
+#: dist/blocks.build.js:81707
+msgid "Left of Title"
+msgstr "À gauche du titre"
+
+#: dist/blocks.build.js:93251 dist/blocks.build.js:93279
+#: dist/blocks.build.js:94548 dist/blocks.build.js:94578
+msgid "Line Color"
+msgstr "Couleur de la ligne"
+
+#: dist/blocks.build.js:77015 dist/blocks.build.js:77101
+#: dist/blocks.build.js:98697 dist/blocks.build.js:98757
+#: dist/blocks.build.js:100674 dist/blocks.build.js:108578
+msgid "Linear"
+msgstr "Linéaire"
+
+#: dist/blocks.build.js:79310 dist/blocks.build.js:81028
+#: dist/blocks.build.js:96555 dist/blocks.build.js:106817
+#: dist/blocks.build.js:108065
+msgid "Link"
+msgstr "Lien"
+
+#: dist/blocks.build.js:85656 dist/blocks.build.js:88139
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/blocks.build.js:90597
+msgid "List Item Link"
+msgstr "Lien vers la liste des éléments"
+
+#: dist/blocks.build.js:110447 dist/blocks.build.js:110497
+#: dist/blocks.build.js:110547
+msgid "List Margin"
+msgstr "Marge de la liste"
+
+#: dist/blocks.build.js:102836 dist/blocks.build.js:104855
+msgid "Loading"
+msgstr "Chargement"
+
+#: dist/blocks.build.js:76973 dist/blocks.build.js:77059
+#: dist/blocks.build.js:98700 dist/blocks.build.js:98760
+#: dist/blocks.build.js:100632 dist/blocks.build.js:108581
+msgid "Location 1"
+msgstr "Localisation 1"
+
+#: dist/blocks.build.js:77000 dist/blocks.build.js:77086
+#: dist/blocks.build.js:98710 dist/blocks.build.js:98770
+#: dist/blocks.build.js:100659 dist/blocks.build.js:108591
+msgid "Location 2"
+msgstr "Localisation 2"
+
+#: dist/blocks.build.js:18376 dist/blocks.build.js:91553
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: dist/blocks.build.js:109738
+msgid "Make Content Collapsible"
+msgstr "Rendre le contenu déployable"
+
+#: dist/blocks.build.js:76771 dist/blocks.build.js:98491
+#: dist/blocks.build.js:100458
+msgid "Margin"
+msgstr "Marge"
+
+#: dist/blocks.build.js:76627 dist/blocks.build.js:98347
+#: dist/blocks.build.js:100358
+msgid "Margin Mobile"
+msgstr "Marge sur mobile"
+
+#: dist/blocks.build.js:76699 dist/blocks.build.js:98419
+#: dist/blocks.build.js:100408
+msgid "Margin Tablet"
+msgstr "Marge sur tablette"
+
+#: dist/blocks.build.js:80509 dist/blocks.build.js:83849
+#: dist/blocks.build.js:85052 dist/blocks.build.js:91381
+#: dist/blocks.build.js:105984
+msgid "Medium"
+msgstr "Moyen"
+
+#: dist/blocks.build.js:60733 dist/blocks.build.js:62693
+#: dist/blocks.build.js:71577 dist/blocks.build.js:94816
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: dist/blocks.build.js:102549 dist/blocks.build.js:102642
+#: dist/blocks.build.js:102699
+msgid "Message Background Color"
+msgstr "Couleur d’arrière-plan du message"
+
+#: dist/blocks.build.js:102659 dist/blocks.build.js:102716
+msgid "Message Border Color"
+msgstr "Couleur de bordure du message"
+
+#: dist/blocks.build.js:102760 dist/blocks.build.js:104723
+msgid "Message Border Radius"
+msgstr "Rayon de la bordure message"
+
+#: dist/blocks.build.js:102732 dist/blocks.build.js:104695
+msgid "Message Border Width (px)"
+msgstr "Largeur de la bordure du message (px)"
+
+#: dist/blocks.build.js:102625 dist/blocks.build.js:102682
+#: dist/blocks.build.js:104557
+msgid "Message Color"
+msgstr "Couleur du message"
+
+#: dist/blocks.build.js:102773 dist/blocks.build.js:104735
+msgid "Message Padding (px)"
+msgstr "Marge interne du message (px)"
+
+#: dist/blocks.build.js:61298 dist/blocks.build.js:63065
+#: dist/blocks.build.js:72044
+msgid "Meta"
+msgstr "Méta"
+
+#: dist/blocks.build.js:61477 dist/blocks.build.js:63244
+#: dist/blocks.build.js:72240
+msgid "Meta Bottom Spacing"
+msgstr "Espacement inférieur des méta"
+
+#: dist/blocks.build.js:61386 dist/blocks.build.js:63153
+#: dist/blocks.build.js:72132
+msgid "Meta Color"
+msgstr "Couleur des Méta"
+
+#: dist/blocks.build.js:81733 dist/blocks.build.js:84165
+#: dist/blocks.build.js:85544 dist/blocks.build.js:88942
+#: dist/blocks.build.js:91661 dist/blocks.build.js:97079
+msgid "Middle"
+msgstr "Milieu"
+
+#: dist/blocks.build.js:77937 dist/blocks.build.js:81712
+#: dist/blocks.build.js:84170 dist/blocks.build.js:85524
+#: dist/blocks.build.js:87019 dist/blocks.build.js:88904
+#: dist/blocks.build.js:91666 dist/blocks.build.js:93536
+#: dist/blocks.build.js:94849 dist/blocks.build.js:97052
+#: dist/blocks.build.js:99989 dist/blocks.build.js:106253
+msgid "Mobile"
+msgstr "Mobile"
+
+#: dist/blocks.build.js:106203
+msgid "Modern"
+msgstr "Moderne"
+
+#: dist/blocks.build.js:105992
+msgid "Modern Layout - Styling"
+msgstr "Mise en page - style modern"
+
+#: dist/blocks.build.js:99624
+msgid "Mountains"
+msgstr "Montagnes"
+
+#: dist/blocks.build.js:88139
+msgid "Myspace"
+msgstr "Myspace"
+
+#: dist/blocks.build.js:83514
+msgid "Name"
+msgstr "Nom"
+
+#: dist/blocks.build.js:83633
+msgid "Name Bottom Margin"
+msgstr "Marge inférieure sur  le nom"
+
+#: dist/blocks.build.js:83571
+msgid "Name Color"
+msgstr "Couleur du nom"
+
+#: dist/blocks.build.js:100040
+msgid "Narrow (5px)"
+msgstr "Étroite (5px)"
+
+#: dist/blocks.build.js:100040
+msgid "No Gap (0px)"
+msgstr "Aucun espace (0px)"
+
+#: dist/blocks.build.js:76913 dist/blocks.build.js:83744
+#: dist/blocks.build.js:98633 dist/blocks.build.js:100578
+msgid "No Repeat"
+msgstr "Aucune répétition"
+
+#: dist/blocks.build.js:93845
+msgid "No content found."
+msgstr "Aucun contenu trouvé."
+
+#: dist/blocks.build.js:61515 dist/blocks.build.js:63285
+#: dist/blocks.build.js:72285 dist/blocks.build.js:95481
+msgid "No posts found."
+msgstr "Aucune publication trouvée."
+
+#: dist/blocks.build.js:61235 dist/blocks.build.js:63007
+#: dist/blocks.build.js:71986 dist/blocks.build.js:78755
+#: dist/blocks.build.js:80839 dist/blocks.build.js:81153
+#: dist/blocks.build.js:81220 dist/blocks.build.js:84183
+#: dist/blocks.build.js:85536 dist/blocks.build.js:88063
+#: dist/blocks.build.js:90451 dist/blocks.build.js:93310
+#: dist/blocks.build.js:94609 dist/blocks.build.js:96681
+#: dist/blocks.build.js:96708 dist/blocks.build.js:97047
+#: dist/blocks.build.js:102212 dist/blocks.build.js:104270
+#: dist/blocks.build.js:106228 dist/blocks.build.js:106928
+#: dist/blocks.build.js:108213
+msgid "Normal"
+msgstr "Normal"
+
+#: dist/blocks.build.js:106972
+msgid "Normal Quote"
+msgstr "Citation normale"
+
+#: dist/blocks.build.js:87112 dist/blocks.build.js:89052
+msgid "Note: Background Size option is useful when one adds background color to the icons."
+msgstr "Remarque : l’option de la taille de l’arrière-plan est utile lorsqu’on ajoute une couleur de fond aux icônes."
+
+#: dist/blocks.build.js:87122 dist/blocks.build.js:89072
+msgid "Note: Border Radius option is useful when one adds background color to the icons."
+msgstr "Remarque : l’option rayon de bordure est utile lorsqu’on ajoute une couleur d’arrière-plan aux icônes."
+
+#: dist/blocks.build.js:89062
+msgid "Note: Border option is useful when one adds border color to the icons."
+msgstr "Remarque : l’option de bordure est utile lorsqu’on ajoute une couleur de bordure aux icônes."
+
+#: dist/blocks.build.js:97053
+msgid "Note: Choose on what breakpoint the CTA button will stack."
+msgstr "Remarque : choisissez le point de rupture sur lequel le bouton CTA s’empilera."
+
+#: dist/blocks.build.js:93537
+msgid "Note: Choose on what breakpoint the Content Timeline will stack."
+msgstr "Remarque : choisissez à quel point de rupture le contenu du fil d’actualité s’empilera."
+
+#: dist/blocks.build.js:87023 dist/blocks.build.js:88908
+msgid "Note: Choose on what breakpoint the Icons will stack."
+msgstr "Remarque : choisissez le point de rupture sur lequel les icônes s’empileront."
+
+#: dist/blocks.build.js:91667
+msgid "Note: Choose on what breakpoint the Images will stack."
+msgstr "Remarque : choisissez le point de rupture sur lequel les images s’empileront."
+
+#: dist/blocks.build.js:81713 dist/blocks.build.js:84171
+msgid "Note: Choose on what breakpoint the Info Box will stack."
+msgstr "Remarque : Choisissez le point de rupture sur lequel la boîte d'information s’empilera."
+
+#: dist/blocks.build.js:94850
+msgid "Note: Choose on what breakpoint the Post Timeline will stack."
+msgstr "Remarque : choisissez sur quel point de rupture s’empilera la chronologie de la publication."
+
+#: dist/blocks.build.js:85525
+msgid "Note: Choose on what breakpoint the Team will stack."
+msgstr "Remarque : choisissez le point de rupture sur lequel l’équipe s’empilera."
+
+#: dist/blocks.build.js:77941
+msgid "Note: Choose on what breakpoint the buttons will stack."
+msgstr "Remarque : choisissez le point de rupture sur lequel le bouton s’empilera."
+
+#: dist/blocks.build.js:99993
+msgid "Note: Choose on what breakpoint the columns will stack."
+msgstr "Remarque : choisissez le point de coupure sur lequel les colonnes s’empileront."
+
+#: dist/blocks.build.js:106254
+msgid "Note: Choose on what breakpoint the elements will stack."
+msgstr "Remarque : choisissez le point de cassure sur lequel les éléments s’empileront."
+
+#: dist/blocks.build.js:100041
+msgid "Note: The individual Column Gap can be managed from Column Settings."
+msgstr "Remarque : l’écart individuel entre les colonnes peut être géré à partir des réglages des colonnes."
+
+#: dist/blocks.build.js:102488
+msgid "Note: This styling can be only seen at frontend"
+msgstr "Remarque : Cette stylisation est uniquement visible coté public"
+
+#: dist/blocks.build.js:104546
+msgid "Note: This styling can be only seen on frontend"
+msgstr "Remarque : cette stylisation est uniquement visible coté public"
+
+#: dist/blocks.build.js:91542 dist/blocks.build.js:93471
+msgid "Number of Items"
+msgstr "Nombre d’éléments"
+
+#: dist/blocks.build.js:84042
+msgid "Number of Testimonials"
+msgstr "Nombre de témoignages"
+
+#: dist/blocks.build.js:71707 dist/blocks.build.js:83988
+msgid "Only Arrows"
+msgstr "Seulement les flèches"
+
+#: dist/blocks.build.js:71707 dist/blocks.build.js:83988
+msgid "Only Dots"
+msgstr "Seulement les points"
+
+#: dist/blocks.build.js:77149 dist/blocks.build.js:77181
+#: dist/blocks.build.js:83778 dist/blocks.build.js:98791
+#: dist/blocks.build.js:99658 dist/blocks.build.js:99787
+#: dist/blocks.build.js:100722 dist/blocks.build.js:100754
+#: dist/blocks.build.js:108612 dist/blocks.build.js:108643
+msgid "Opacity"
+msgstr "Opacité"
+
+#: dist/blocks.build.js:85584
+msgid "Open Links in New Window"
+msgstr "Ouvrir les liens dans une nouvelle fenêtre"
+
+#: dist/blocks.build.js:90622
+msgid "Open in New Tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: dist/blocks.build.js:81035 dist/blocks.build.js:96562
+msgid "Open in new Window"
+msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#: dist/blocks.build.js:108075
+msgid "Open link in New Tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: dist/blocks.build.js:61122 dist/blocks.build.js:62894
+#: dist/blocks.build.js:71873 dist/blocks.build.js:94936
+msgid "Open links in New Tab"
+msgstr "Ouvrir les liens dans le nouvel onglet"
+
+#: dist/blocks.build.js:60736 dist/blocks.build.js:62696
+#: dist/blocks.build.js:71580 dist/blocks.build.js:94819
+msgid "Order"
+msgstr "Tri"
+
+#: dist/blocks.build.js:60728 dist/blocks.build.js:62688
+#: dist/blocks.build.js:71572 dist/blocks.build.js:94811
+msgid "Order By"
+msgstr "Trier par"
+
+#: dist/blocks.build.js:93518 dist/blocks.build.js:94831
+msgid "Orientation"
+msgstr "Orientation"
+
+#: dist/blocks.build.js:15471 dist/blocks.build.js:77201
+#: dist/blocks.build.js:83798 dist/blocks.build.js:91331
+#: dist/blocks.build.js:97938 dist/blocks.build.js:100805
+#: dist/blocks.build.js:101786 dist/blocks.build.js:102008
+#: dist/blocks.build.js:103783 dist/blocks.build.js:104066
+#: dist/blocks.build.js:106000 dist/blocks.build.js:108664
+#: dist/blocks.build.js:110593
+msgid "Outset"
+msgstr "Début"
+
+#: dist/blocks.build.js:61037 dist/blocks.build.js:62809
+#: dist/blocks.build.js:71788
+msgid "Overlay Opacity"
+msgstr "Opacité de la superposition"
+
+#: dist/blocks.build.js:102320 dist/blocks.build.js:104378
+msgid "Override Current Style"
+msgstr "Remplacer le style actuel"
+
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957
+msgid "P"
+msgstr "P"
+
+#: dist/blocks.build.js:76526 dist/blocks.build.js:93600
+#: dist/blocks.build.js:98246 dist/blocks.build.js:100257
+#: dist/blocks.build.js:110269 dist/blocks.build.js:110319
+#: dist/blocks.build.js:110369
+msgid "Padding"
+msgstr "Marges intérieures"
+
+#: dist/blocks.build.js:76382 dist/blocks.build.js:98102
+#: dist/blocks.build.js:100113
+msgid "Padding Mobile"
+msgstr "Marge intérieure sur mobile"
+
+#: dist/blocks.build.js:76454 dist/blocks.build.js:98174
+#: dist/blocks.build.js:100185
+msgid "Padding Tablet"
+msgstr "Marge intérieure sur tablette"
+
+#: dist/blocks.build.js:71657 dist/blocks.build.js:83950
+msgid "Pause On Hover"
+msgstr "Pause au survol"
+
+#: dist/blocks.build.js:85688 dist/blocks.build.js:88139
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: dist/blocks.build.js:77252 dist/blocks.build.js:80909
+#: dist/blocks.build.js:85514 dist/blocks.build.js:100856
+msgid "Position"
+msgstr "Position"
+
+#: dist/blocks.build.js:60691 dist/blocks.build.js:62652
+#: dist/blocks.build.js:71536 dist/blocks.build.js:94775
+msgid "Post Type"
+msgstr "Type de publication"
+
+#: dist/blocks.build.js:85760
+msgid "Prefix"
+msgstr "Préfixe"
+
+#: dist/blocks.build.js:81519
+msgid "Prefix Bottom Margin"
+msgstr "Marge inférieure du préfixe"
+
+#: dist/blocks.build.js:81397
+msgid "Prefix Color"
+msgstr "Couleur du préfixe"
+
+#: dist/blocks.build.js:91318
+msgid "Price Color"
+msgstr "Couleur du prix"
+
+#: dist/blocks.build.js:94773
+msgid "Query"
+msgstr "Requête"
+
+#: dist/blocks.build.js:106203
+msgid "Quotation"
+msgstr "Citation"
+
+#: dist/blocks.build.js:106020
+msgid "Quotation Layout - Styling"
+msgstr "Mise en page - style de la citation"
+
+#: dist/blocks.build.js:106470
+msgid "Quote"
+msgstr "Citation"
+
+#: dist/blocks.build.js:105995
+msgid "Quote Border Style"
+msgstr "Style de la bordure de la citation"
+
+#: dist/blocks.build.js:106746
+msgid "Quote Bottom Spacing"
+msgstr "Espacement en bas de la citation"
+
+#: dist/blocks.build.js:106492
+msgid "Quote Color"
+msgstr "Couleur de la citation"
+
+#: dist/blocks.build.js:106187
+msgid "Quote Icon Border Radius (%)"
+msgstr "Rayon de la bordure de l’icône de citation (%)"
+
+#: dist/blocks.build.js:106219
+msgid "Quote Icon Colors"
+msgstr "Couleur de l’icône de la citation"
+
+#: dist/blocks.build.js:106687
+msgid "Quote Icon Margin (px)"
+msgstr "Marge de l’icône de la citation (px)"
+
+#: dist/blocks.build.js:106047 dist/blocks.build.js:106065
+#: dist/blocks.build.js:106083
+msgid "Quote Icon Size"
+msgstr "Taille de l’Icône de citation"
+
+#: dist/blocks.build.js:77015 dist/blocks.build.js:77101
+#: dist/blocks.build.js:98697 dist/blocks.build.js:98757
+#: dist/blocks.build.js:100674 dist/blocks.build.js:108578
+msgid "Radial"
+msgstr "Radial"
+
+#: dist/blocks.build.js:102318 dist/blocks.build.js:104376
+msgid "Radio & Checkbox"
+msgstr "Bouton radio & case à cocher"
+
+#: dist/blocks.build.js:102421 dist/blocks.build.js:104479
+msgid "Radio & Checkbox Border"
+msgstr "Bordure de bouton radio & case à cocher"
+
+#: dist/blocks.build.js:102343 dist/blocks.build.js:104401
+msgid "Radio & Checkbox Label"
+msgstr "Libellé de bouton radio & case à cocher"
+
+#: dist/blocks.build.js:60733 dist/blocks.build.js:62693
+#: dist/blocks.build.js:71577 dist/blocks.build.js:94816
+msgid "Random"
+msgstr "Aléatoire"
+
+#: dist/blocks.build.js:61113 dist/blocks.build.js:62885
+#: dist/blocks.build.js:71864
+msgid "Read More Link"
+msgstr "Lien Lire la suite"
+
+#: dist/blocks.build.js:88139
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/blocks.build.js:76885 dist/blocks.build.js:81647
+#: dist/blocks.build.js:83724 dist/blocks.build.js:83940
+#: dist/blocks.build.js:85510 dist/blocks.build.js:88197
+#: dist/blocks.build.js:90590 dist/blocks.build.js:91422
+#: dist/blocks.build.js:98605 dist/blocks.build.js:100550
+#: dist/blocks.build.js:106286
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: dist/blocks.build.js:77145 dist/blocks.build.js:100718
+msgid "Remove Video"
+msgstr "Retirer la vidéo"
+
+#: dist/blocks.build.js:76908 dist/blocks.build.js:76913
+#: dist/blocks.build.js:83739 dist/blocks.build.js:83744
+#: dist/blocks.build.js:98628 dist/blocks.build.js:98633
+#: dist/blocks.build.js:100573 dist/blocks.build.js:100578
+msgid "Repeat"
+msgstr "Répéter"
+
+#: dist/blocks.build.js:76913 dist/blocks.build.js:83744
+#: dist/blocks.build.js:98633 dist/blocks.build.js:100578
+msgid "Repeat-x"
+msgstr "Répéter-x"
+
+#: dist/blocks.build.js:76913 dist/blocks.build.js:83744
+#: dist/blocks.build.js:98633 dist/blocks.build.js:100578
+msgid "Repeat-y"
+msgstr "Répéter-y"
+
+#: dist/blocks.build.js:81619 dist/blocks.build.js:83263
+#: dist/blocks.build.js:91040 dist/blocks.build.js:105979
+msgid "Replace Image"
+msgstr "Remplacer l’image"
+
+#: dist/blocks.build.js:77138 dist/blocks.build.js:100711
+msgid "Replace Video"
+msgstr "Remplacer la vidéo"
+
+#: dist/blocks.build.js:76878 dist/blocks.build.js:83717
+#: dist/blocks.build.js:85503 dist/blocks.build.js:88185
+#: dist/blocks.build.js:90583 dist/blocks.build.js:98598
+#: dist/blocks.build.js:100543
+msgid "Replace image"
+msgstr "Remplacer l'image"
+
+#: dist/blocks.build.js:100059
+msgid "Reverse Columns (Mobile)"
+msgstr "Inverser les colonnes (mobile)"
+
+#: dist/blocks.build.js:100052
+msgid "Reverse Columns (Tablet)"
+msgstr "Inverser les colonnes (tablette)"
+
+#: dist/blocks.build.js:77201 dist/blocks.build.js:83798
+#: dist/blocks.build.js:91331 dist/blocks.build.js:97938
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:108664 dist/blocks.build.js:110593
+msgid "Ridge"
+msgstr "Hachurée"
+
+#: dist/blocks.build.js:60841 dist/blocks.build.js:84154
+#: dist/blocks.build.js:85519 dist/blocks.build.js:91650
+#: dist/blocks.build.js:93523 dist/blocks.build.js:94836
+#: dist/blocks.build.js:102179 dist/blocks.build.js:104033
+#: dist/blocks.build.js:104237 dist/blocks.build.js:106298
+#: dist/blocks.build.js:108087
+msgid "Right"
+msgstr "Droite"
+
+#: dist/blocks.build.js:81707
+msgid "Right of Text and Title"
+msgstr "À droite du texte et du titre"
+
+#: dist/blocks.build.js:81707
+msgid "Right of Title"
+msgstr "À droite du titre"
+
+#: dist/blocks.build.js:61186 dist/blocks.build.js:62958
+#: dist/blocks.build.js:71937 dist/blocks.build.js:81135
+#: dist/blocks.build.js:96663
+msgid "Rounded Corner"
+msgstr "Coin arrondi"
+
+#: dist/blocks.build.js:78933 dist/blocks.build.js:93589
+#: dist/blocks.build.js:95086
+msgid "Rounded Corners"
+msgstr "Coins arrondis"
+
+#: dist/blocks.build.js:81681
+msgid "Rounded Corners (px)"
+msgstr "Coins arrondis (px)"
+
+#: dist/blocks.build.js:61425 dist/blocks.build.js:63192
+#: dist/blocks.build.js:72188 dist/blocks.build.js:83603
+#: dist/blocks.build.js:91444
+msgid "Row Gap"
+msgstr "Écart de ligne"
+
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957
+msgid "SPAN"
+msgstr "SPAN"
+
+#: dist/blocks.build.js:76905 dist/blocks.build.js:98625
+#: dist/blocks.build.js:100570 dist/blocks.build.js:109600
+msgid "Scroll"
+msgstr "Défilement"
+
+#: dist/blocks.build.js:109622
+msgid "Scroll Animation Delay (ms)"
+msgstr "Temporisation de l’animation de défilement (ms)"
+
+#: dist/blocks.build.js:76869 dist/blocks.build.js:76878
+#: dist/blocks.build.js:83708 dist/blocks.build.js:83717
+#: dist/blocks.build.js:98589 dist/blocks.build.js:98598
+#: dist/blocks.build.js:100534 dist/blocks.build.js:100543
+msgid "Select Background Image"
+msgstr "Sélectionnez une image d’arrière-plan"
+
+#: dist/blocks.build.js:77129 dist/blocks.build.js:77138
+#: dist/blocks.build.js:100702 dist/blocks.build.js:100711
+msgid "Select Background Video"
+msgstr "Sélectionner une vidéo d’arrière-plan"
+
+#: dist/blocks.build.js:80750 dist/blocks.build.js:80759
+#: dist/blocks.build.js:85607 dist/blocks.build.js:85639
+#: dist/blocks.build.js:85665 dist/blocks.build.js:85697
+#: dist/blocks.build.js:88167 dist/blocks.build.js:90567
+#: dist/blocks.build.js:93242 dist/blocks.build.js:94474
+#: dist/blocks.build.js:96512 dist/blocks.build.js:108103
+#: dist/blocks.build.js:109539
+msgid "Select Icon"
+msgstr "Sélectionnez une icône"
+
+#: dist/blocks.build.js:81614 dist/blocks.build.js:81617
+#: dist/blocks.build.js:81631 dist/blocks.build.js:83258
+#: dist/blocks.build.js:83261 dist/blocks.build.js:85494
+#: dist/blocks.build.js:85503 dist/blocks.build.js:88174
+#: dist/blocks.build.js:88185 dist/blocks.build.js:90574
+#: dist/blocks.build.js:90583 dist/blocks.build.js:91035
+#: dist/blocks.build.js:91038 dist/blocks.build.js:105974
+#: dist/blocks.build.js:105977 dist/blocks.build.js:106270
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: dist/blocks.build.js:81702
+msgid "Select Position"
+msgstr "Sélectionnez la position"
+
+#: dist/blocks.build.js:81720
+msgid "Select Source"
+msgstr "Sélectionnez la source"
+
+#: dist/blocks.build.js:60667 dist/blocks.build.js:62629
+#: dist/blocks.build.js:71513 dist/blocks.build.js:94451
+msgid "Select Taxonomy"
+msgstr "Sélectionnez la Taxonomie"
+
+#: dist/blocks.build.js:101987
+msgid "Select a Contact Form 7"
+msgstr "Sélectionnez un formulaire de Contact Form 7"
+
+#: dist/blocks.build.js:104045
+msgid "Select a Gravity Form"
+msgstr "Sélectionnez un formulaire Gravity"
+
+#: dist/blocks.build.js:109575
+msgid "Select the heading to consider when generating the table"
+msgstr "Sélectionner l’entête à prendre en compte quand vous générez un tableau"
+
+#: dist/blocks.build.js:102400 dist/blocks.build.js:104458
+msgid "Selected Color"
+msgstr "Couleur Sélectionnée"
+
+#: dist/blocks.build.js:81541
+msgid "Separator Bottom Margin"
+msgstr "Marge inférieure de séparateur"
+
+#: dist/blocks.build.js:91326
+msgid "Separator Style"
+msgstr "Style du séparateur"
+
+#: dist/blocks.build.js:91347
+msgid "Separator Thickness"
+msgstr "Épaisseur du séparateur"
+
+#: dist/blocks.build.js:91337
+msgid "Separator Width (%)"
+msgstr "Largeur du séparateur (%)"
+
+#: dist/blocks.build.js:83909 dist/blocks.build.js:91391
+#: dist/blocks.build.js:93338
+msgid "Settings"
+msgstr "Réglages"
+
+#: dist/blocks.build.js:100767
+msgid "Shape Dividers"
+msgstr "Forme des séparateurs"
+
+#: dist/blocks.build.js:104025
+msgid "Show"
+msgstr "Afficher"
+
+#: dist/blocks.build.js:71702 dist/blocks.build.js:83983
+msgid "Show Arrows & Dots"
+msgstr "Afficher les flèches et les points"
+
+#: dist/blocks.build.js:61066 dist/blocks.build.js:62838
+#: dist/blocks.build.js:71817
+msgid "Show Author"
+msgstr "Afficher l’auteur"
+
+#: dist/blocks.build.js:61080 dist/blocks.build.js:62852
+#: dist/blocks.build.js:71831
+msgid "Show Comment"
+msgstr "Afficher les commentaires"
+
+#: dist/blocks.build.js:61073 dist/blocks.build.js:62845
+#: dist/blocks.build.js:71824
+msgid "Show Date"
+msgstr "Afficher la date"
+
+#: dist/blocks.build.js:61094 dist/blocks.build.js:62866
+#: dist/blocks.build.js:71845
+msgid "Show Excerpt"
+msgstr "Afficher l’extrait"
+
+#: dist/blocks.build.js:60994 dist/blocks.build.js:62766
+#: dist/blocks.build.js:71745
+msgid "Show Featured Image"
+msgstr "Afficher l’image mise en avant"
+
+#: dist/blocks.build.js:61115 dist/blocks.build.js:62887
+#: dist/blocks.build.js:71866
+msgid "Show Read More Link"
+msgstr "Afficher le lien « lire plus »"
+
+#: dist/blocks.build.js:109633
+msgid "Show Scroll To Top"
+msgstr "Afficher le défilement vers le haut"
+
+#: dist/blocks.build.js:61087 dist/blocks.build.js:62859
+#: dist/blocks.build.js:71838
+msgid "Show Taxonomy"
+msgstr "Afficher Taxonomie"
+
+#: dist/blocks.build.js:61059 dist/blocks.build.js:62831
+#: dist/blocks.build.js:71810
+msgid "Show Title"
+msgstr "Afficher le titre"
+
+#: dist/blocks.build.js:76916 dist/blocks.build.js:83747
+#: dist/blocks.build.js:85550 dist/blocks.build.js:87052
+#: dist/blocks.build.js:87069 dist/blocks.build.js:87086
+#: dist/blocks.build.js:88973 dist/blocks.build.js:88990
+#: dist/blocks.build.js:98636 dist/blocks.build.js:100581
+#: dist/blocks.build.js:102330 dist/blocks.build.js:104388
+msgid "Size"
+msgstr "Taille"
+
+#: dist/blocks.build.js:109602
+msgid "Smooth Scroll"
+msgstr "Défilement fluide"
+
+#: dist/blocks.build.js:109613
+msgid "Smooth Scroll Offset (px)"
+msgstr "Offset du défilement fluide (px)"
+
+#: dist/blocks.build.js:85846
+msgid "Social Icon Color"
+msgstr "Couleur des icônes de réseaux sociaux"
+
+#: dist/blocks.build.js:85852
+msgid "Social Icon Hover Color"
+msgstr "Couleur au survol des icônes de réseaux sociaux"
+
+#: dist/blocks.build.js:85806
+msgid "Social Icons"
+msgstr "Icônes de réseaux sociaux"
+
+#: dist/blocks.build.js:85571
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: dist/blocks.build.js:106907
+msgid "Space between Tweet Icon and Text"
+msgstr "Espace entre l’icône du Tweet et le texte"
+
+#: dist/blocks.build.js:84183 dist/blocks.build.js:85536
+msgid "Square"
+msgstr "Carré"
+
+#: dist/blocks.build.js:97047
+msgid "Stack"
+msgstr "Empiler"
+
+#: dist/blocks.build.js:77935 dist/blocks.build.js:81710
+#: dist/blocks.build.js:84168 dist/blocks.build.js:85522
+#: dist/blocks.build.js:87017 dist/blocks.build.js:88902
+#: dist/blocks.build.js:91664 dist/blocks.build.js:93534
+#: dist/blocks.build.js:94847 dist/blocks.build.js:97050
+#: dist/blocks.build.js:99987 dist/blocks.build.js:106251
+msgid "Stack on"
+msgstr "Empiler sur"
+
+#: dist/blocks.build.js:88139
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: dist/blocks.build.js:102172 dist/blocks.build.js:104230
+msgid "Submit Button"
+msgstr "Bouton d’envoi"
+
+#: dist/blocks.build.js:102484 dist/blocks.build.js:104542
+msgid "Success / Error Message"
+msgstr "Message de succès/erreur"
+
+#: dist/blocks.build.js:102620
+msgid "Success Message"
+msgstr "Message de réussite"
+
+#: dist/blocks.build.js:104785
+msgid "Success Message Color"
+msgstr "Couleur du message de réussite"
+
+#: dist/blocks.build.js:104800
+msgid "Success Message Typography"
+msgstr "Typographie du message de réussite"
+
+#: dist/blocks.build.js:104009
+msgid "Tab Index"
+msgstr "Onglet d’index"
+
+#: dist/blocks.build.js:110034
+msgid "Table's width will be auto if this is kept off."
+msgstr "La largeur de cette table sera automatique si cette fonction est désactivée."
+
+#: dist/blocks.build.js:77937 dist/blocks.build.js:81712
+#: dist/blocks.build.js:84170 dist/blocks.build.js:85524
+#: dist/blocks.build.js:87019 dist/blocks.build.js:88904
+#: dist/blocks.build.js:91666 dist/blocks.build.js:93536
+#: dist/blocks.build.js:94849 dist/blocks.build.js:97052
+#: dist/blocks.build.js:99989 dist/blocks.build.js:106253
+msgid "Tablet"
+msgstr "Tablette"
+
+#: dist/blocks.build.js:96905
+msgid "Tag"
+msgstr "Étiquette"
+
+#: dist/blocks.build.js:106853
+msgid "Target URL"
+msgstr "URL cible"
+
+#: dist/blocks.build.js:60700 dist/blocks.build.js:62661
+#: dist/blocks.build.js:71545 dist/blocks.build.js:94784
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: dist/blocks.build.js:85492
+msgid "Team Member Image"
+msgstr "Image du membre de l’équipe"
+
+#: dist/blocks.build.js:83623
+msgid "Testimonial Bottom Margin"
+msgstr "Marge inférieure du témoignage"
+
+#: dist/blocks.build.js:83565
+msgid "Testimonial Color"
+msgstr "Couleur des témoignages"
+
+#: dist/blocks.build.js:61138 dist/blocks.build.js:62910
+#: dist/blocks.build.js:71889 dist/blocks.build.js:80997
+#: dist/blocks.build.js:81003 dist/blocks.build.js:96524
+#: dist/blocks.build.js:96530 dist/blocks.build.js:106809
+msgid "Text"
+msgstr "Texte"
+
+#: dist/blocks.build.js:108082
+msgid "Text Alignment"
+msgstr "Alignement du texte"
+
+#: dist/blocks.build.js:60937 dist/blocks.build.js:78771
+#: dist/blocks.build.js:81169 dist/blocks.build.js:81249
+#: dist/blocks.build.js:90193 dist/blocks.build.js:90305
+#: dist/blocks.build.js:96737 dist/blocks.build.js:102056
+#: dist/blocks.build.js:104114
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: dist/blocks.build.js:78827 dist/blocks.build.js:81191
+#: dist/blocks.build.js:81309 dist/blocks.build.js:90248
+#: dist/blocks.build.js:90377 dist/blocks.build.js:96797
+#: dist/blocks.build.js:102116 dist/blocks.build.js:104174
+msgid "Text Hover Color"
+msgstr "Couleur du texte au survol"
+
+#: dist/blocks.build.js:103974
+msgid "TextArea Height"
+msgstr "Hauteur de la zone de texte"
+
+#: dist/blocks.build.js:100001
+msgid "Theme Container Width"
+msgstr "Largeur de conteneur du thème"
+
+#: dist/blocks.build.js:78924 dist/blocks.build.js:80928
+msgid "Thickness"
+msgstr "Épaisseur"
+
+#: dist/blocks.build.js:88465
+msgid "This block uses Ultimate Addon for Gutenberg's API key to display the map. You don't need to create your own API key or worry about renewing it."
+msgstr "Ce bloc utilise la clé d’API Ultimate Addon for Gutenberg's API key pour afficher la carte. Vous n’avez pas besoin de créer votre propre clé API ni de vous soucier de la renouveler."
+
+#: dist/blocks.build.js:18682
+msgid "This is Timeline description, you can change me anytime click here "
+msgstr "Ceci est la description du fil d’actualité, vous pouvez me changer à tout moment en cliquant ici "
+
+#: dist/blocks.build.js:109635
+msgid "This will add a Scroll to Top arrow at the bottom of page."
+msgstr "Cela ajoutera une flèche de défilement vers le haut au bas de la page."
+
+#: dist/blocks.build.js:109604
+msgid "This will be in Action only in Front End."
+msgstr "Ceci sera activé uniquement coté public."
+
+#: dist/blocks.build.js:80509 dist/blocks.build.js:83849
+#: dist/blocks.build.js:85052 dist/blocks.build.js:91381
+#: dist/blocks.build.js:105984
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: dist/blocks.build.js:99624
+msgid "Tilt"
+msgstr "Inclinaison"
+
+#: dist/blocks.build.js:92321
+msgid "Timeline"
+msgstr "Fil d’actualité"
+
+#: dist/blocks.build.js:18681 dist/blocks.build.js:93497
+msgid "Timeline Heading "
+msgstr "Titre du fil d’actualité "
+
+#: dist/blocks.build.js:93579 dist/blocks.build.js:94945
+msgid "Timeline Item"
+msgstr "Élément de la chronologie"
+
+#: dist/blocks.build.js:60733 dist/blocks.build.js:61264
+#: dist/blocks.build.js:62693 dist/blocks.build.js:71577
+#: dist/blocks.build.js:85737 dist/blocks.build.js:91224
+#: dist/blocks.build.js:94816 dist/blocks.build.js:108159
+msgid "Title"
+msgstr "Titre"
+
+#: dist/blocks.build.js:104020
+msgid "Title & Description"
+msgstr "Titre & description"
+
+#: dist/blocks.build.js:104028
+msgid "Title & Description Alignment"
+msgstr "Alignement du titre et de la description"
+
+#: dist/blocks.build.js:81530 dist/blocks.build.js:91464
+msgid "Title Bottom Margin"
+msgstr "Marge inférieure du titre"
+
+#: dist/blocks.build.js:61467 dist/blocks.build.js:63234
+#: dist/blocks.build.js:72230 dist/blocks.build.js:85861
+#: dist/blocks.build.js:108142
+msgid "Title Bottom Spacing"
+msgstr "Espacement inférieur du titre"
+
+#: dist/blocks.build.js:61369 dist/blocks.build.js:63136
+#: dist/blocks.build.js:72115 dist/blocks.build.js:81451
+#: dist/blocks.build.js:85828 dist/blocks.build.js:91306
+#: dist/blocks.build.js:108229
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: dist/blocks.build.js:108285
+msgid "Title Hover Color"
+msgstr "Couleur du titre au survol"
+
+#: dist/blocks.build.js:61267 dist/blocks.build.js:63034
+#: dist/blocks.build.js:72013 dist/blocks.build.js:81424
+#: dist/blocks.build.js:85726 dist/blocks.build.js:91227
+msgid "Title Tag"
+msgstr "Balise titre"
+
+#: dist/blocks.build.js:61014 dist/blocks.build.js:62786
+#: dist/blocks.build.js:71765 dist/blocks.build.js:81733
+#: dist/blocks.build.js:84154 dist/blocks.build.js:84165
+#: dist/blocks.build.js:85544 dist/blocks.build.js:88942
+#: dist/blocks.build.js:91650 dist/blocks.build.js:91661
+#: dist/blocks.build.js:93531 dist/blocks.build.js:94844
+#: dist/blocks.build.js:97079 dist/blocks.build.js:100774
+#: dist/blocks.build.js:106298
+msgid "Top"
+msgstr "Haut"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Top Center"
+msgstr "En haut au centre"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: dist/blocks.build.js:76897 dist/blocks.build.js:77033
+#: dist/blocks.build.js:77119 dist/blocks.build.js:83736
+#: dist/blocks.build.js:98617 dist/blocks.build.js:100562
+#: dist/blocks.build.js:100692
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: dist/blocks.build.js:71687 dist/blocks.build.js:83974
+msgid "Transition Speed (ms)"
+msgstr "Vitesse de transition (ms)"
+
+#: dist/blocks.build.js:108530
+msgid "Transparent"
+msgstr "Transparent"
+
+#: dist/blocks.build.js:99624
+msgid "Triangle"
+msgstr "Triangle"
+
+#: dist/blocks.build.js:88139
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/blocks.build.js:81667
+msgid "Turn this off to inherit the natural width of Image."
+msgstr "Désactiver ceci pour hériter de la largeur naturelle de l’image."
+
+#: dist/blocks.build.js:106597
+msgid "Tweet Background Color"
+msgstr "Couleur de l’arrière-plan au survol du tweet"
+
+#: dist/blocks.build.js:106661
+msgid "Tweet Background Hover Color"
+msgstr "Couleur d’arrière-plan au survol du tweet"
+
+#: dist/blocks.build.js:106559 dist/blocks.build.js:106580
+msgid "Tweet Color"
+msgstr "Couleur du tweet"
+
+#: dist/blocks.build.js:106623 dist/blocks.build.js:106644
+msgid "Tweet Hover Color"
+msgstr "Couleur de survol du tweet"
+
+#: dist/blocks.build.js:85592 dist/blocks.build.js:88139
+msgid "Twitter"
+msgstr "Twitter"
+
+#: dist/blocks.build.js:106792
+msgid "Twitter Icon"
+msgstr "Icône Twitter"
+
+#: dist/blocks.build.js:107013 dist/blocks.build.js:107021
+msgid "Twitter Username"
+msgstr "IdentifiantTwitter"
+
+#: dist/blocks.build.js:77010 dist/blocks.build.js:77028
+#: dist/blocks.build.js:77096 dist/blocks.build.js:77114
+#: dist/blocks.build.js:80992 dist/blocks.build.js:88137
+#: dist/blocks.build.js:96519 dist/blocks.build.js:98692
+#: dist/blocks.build.js:98752 dist/blocks.build.js:99630
+#: dist/blocks.build.js:99759 dist/blocks.build.js:100669
+#: dist/blocks.build.js:100687 dist/blocks.build.js:108573
+msgid "Type"
+msgstr "Type"
+
+#: dist/blocks.build.js:88477
+msgid "Type the address"
+msgstr "Tapez l’adresse"
+
+#: dist/blocks.build.js:93843
+msgid "UAGB Content Timeline"
+msgstr "Chronologie du contenu UAGB"
+
+#: dist/blocks.build.js:85612 dist/blocks.build.js:85644
+#: dist/blocks.build.js:85676 dist/blocks.build.js:85708
+#: dist/blocks.build.js:90612 dist/blocks.build.js:106861
+msgid "URL"
+msgstr "URL"
+
+#: dist/blocks.build.js:101778 dist/blocks.build.js:103775
+msgid "Underline"
+msgstr "Souligner"
+
+#: dist/blocks.build.js:107027
+msgid "Username"
+msgstr "Identifiant"
+
+#: dist/blocks.build.js:102507
+msgid "Validation Font"
+msgstr "Police de validation"
+
+#: dist/blocks.build.js:102529
+msgid "Validation Message Color"
+msgstr "Couleur du message de validation"
+
+#: dist/blocks.build.js:102497
+msgid "Validation Message Position"
+msgstr "Position du message de validation"
+
+#: dist/blocks.build.js:77249 dist/blocks.build.js:87008
+#: dist/blocks.build.js:88893 dist/blocks.build.js:100853
+msgid "Vertical"
+msgstr "Vertical"
+
+#: dist/blocks.build.js:81728 dist/blocks.build.js:84160
+msgid "Vertical ALignment"
+msgstr "Alignement vertical"
+
+#: dist/blocks.build.js:85539 dist/blocks.build.js:91656
+msgid "Vertical Alignment"
+msgstr "Alignement vertical"
+
+#: dist/blocks.build.js:106774
+msgid "Vertical Padding"
+msgstr "Marge interne verticale"
+
+#: dist/blocks.build.js:93557 dist/blocks.build.js:95181
+msgid "Vertical Space"
+msgstr "Espace vertical"
+
+#: dist/blocks.build.js:99957
+msgid "Vertically Bottom"
+msgstr "Verticalement en bas"
+
+#: dist/blocks.build.js:99939
+msgid "Vertically Middle"
+msgstr "Verticalement au milieu"
+
+#: dist/blocks.build.js:99921
+msgid "Vertically Top"
+msgstr "Verticalement en haut"
+
+#: dist/blocks.build.js:97074
+msgid "Verticle Alignment"
+msgstr "Alignement vertical"
+
+#: dist/blocks.build.js:76837 dist/blocks.build.js:100502
+msgid "Video"
+msgstr "Vidéo"
+
+#: dist/blocks.build.js:77165 dist/blocks.build.js:100738
+msgid "Video Overlay Color"
+msgstr "Couleur de superposition Vidéo"
+
+#: dist/blocks.build.js:99624
+msgid "Wave Brush"
+msgstr "Brosse à vagues"
+
+#: dist/blocks.build.js:99624
+msgid "Waves"
+msgstr "Vagues"
+
+#: dist/blocks.build.js:100040
+msgid "Wide (20px)"
+msgstr "Large (20px)"
+
+#: dist/blocks.build.js:100040
+msgid "Wider (30px)"
+msgstr "Plus large (30px)"
+
+#: dist/blocks.build.js:81670
+msgid "Width (px)"
+msgstr "Largeur (px)"
+
+#: dist/blocks.build.js:85361
+msgid "Write a Designation"
+msgstr "Écrire une description"
+
+#: dist/blocks.build.js:88480
+msgid "Zoom"
+msgstr "Zoom"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "article"
+msgstr "article"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "aside"
+msgstr "aside"
+
+#: dist/blocks.build.js:105644
+msgid "blockquote"
+msgstr "bloc de citation"
+
+#: dist/blocks.build.js:77732
+msgid "buttons"
+msgstr "boutons"
+
+#: dist/blocks.build.js:96255
+msgid "call to action"
+msgstr "call to action"
+
+#: dist/blocks.build.js:71093
+msgid "carousel"
+msgstr "carousel"
+
+#: dist/blocks.build.js:99257
+msgid "columns"
+msgstr "colonnes"
+
+#: dist/blocks.build.js:101423
+msgid "contact form styler"
+msgstr "stylisateur du formulaire de contact"
+
+#: dist/blocks.build.js:96255 dist/blocks.build.js:107828
+msgid "cta"
+msgstr "CTA"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "div"
+msgstr "div"
+
+#: dist/blocks.build.js:59742 dist/blocks.build.js:60616
+#: dist/blocks.build.js:62578 dist/blocks.build.js:71462
+#: dist/blocks.build.js:80766 dist/blocks.build.js:83442
+#: dist/blocks.build.js:85373 dist/blocks.build.js:86931
+#: dist/blocks.build.js:88839 dist/blocks.build.js:91175
+#: dist/blocks.build.js:93347 dist/blocks.build.js:94477
+#: dist/blocks.build.js:96466 dist/blocks.build.js:101694
+#: dist/blocks.build.js:103691 dist/blocks.build.js:105889
+msgid "em"
+msgstr "em"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "footer"
+msgstr "pied de page"
+
+#: dist/blocks.build.js:88521
+msgid "google map"
+msgstr "Google Map"
+
+#: dist/blocks.build.js:103401
+msgid "gravity form styler"
+msgstr "stylisateur Gravity Forms"
+
+#: dist/blocks.build.js:60209
+msgid "grid"
+msgstr "grille"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "header"
+msgstr "en-tête"
+
+#: dist/blocks.build.js:86721 dist/blocks.build.js:87704
+msgid "icon"
+msgstr "icône"
+
+#: dist/blocks.build.js:88658
+msgid "icon list"
+msgstr "liste d’icônes"
+
+#: dist/blocks.build.js:88658
+msgid "image list"
+msgstr "liste d’images"
+
+#: dist/blocks.build.js:80401
+msgid "info box"
+msgstr "boîte d’info"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "main"
+msgstr "main"
+
+#: dist/blocks.build.js:88521
+msgid "map"
+msgstr "carte"
+
+#: dist/blocks.build.js:107828
+msgid "marketing button"
+msgstr "bouton marketing"
+
+#: dist/blocks.build.js:62240
+msgid "masonry"
+msgstr "masonry"
+
+#: dist/blocks.build.js:84966
+msgid "members"
+msgstr "membres"
+
+#: dist/blocks.build.js:90860
+msgid "menu"
+msgstr "menu"
+
+#: dist/blocks.build.js:77732
+msgid "multi buttons"
+msgstr "multi-boutons"
+
+#: dist/blocks.build.js:76332 dist/blocks.build.js:100049
+msgid "nav"
+msgstr "nav"
+
+#: dist/blocks.build.js:60209 dist/blocks.build.js:62240
+#: dist/blocks.build.js:71093 dist/blocks.build.js:94151
+msgid "post"
+msgstr "publication"
+
+#: dist/blocks.build.js:90860
+msgid "pricelist"
+msgstr "liste de prix"
+
+#: dist/blocks.build.js:105644
+msgid "quote"
+msgstr "citation"
+
+#: dist/blocks.build.js:99257
+msgid "rows"
+msgstr "lignes"
+
+#: dist/blocks.build.js:75943 dist/blocks.build.js:76332
+#: dist/blocks.build.js:100049
+msgid "section"
+msgstr "section"
+
+#: dist/blocks.build.js:86721 dist/blocks.build.js:87704
+msgid "social share"
+msgstr "partage social"
+
+#: dist/blocks.build.js:109254
+msgid "table"
+msgstr "tableau"
+
+#: dist/blocks.build.js:84966
+msgid "team"
+msgstr "équipe"
+
+#: dist/blocks.build.js:83076
+msgid "testimonial"
+msgstr "témoignage"
+
+#: dist/blocks.build.js:94151
+msgid "timeline"
+msgstr "chronologie"
+
+#: dist/blocks.build.js:105644
+msgid "uagb"
+msgstr "uagb"
+
+#: dist/blocks.build.js:75943
+msgid "wrapper"
+msgstr "emballage"
+
+#: dist/blocks.build.js:15471 dist/blocks.build.js:77201
+#: dist/blocks.build.js:83798 dist/blocks.build.js:91331
+#: dist/blocks.build.js:97938 dist/blocks.build.js:100805
+#: dist/blocks.build.js:101786 dist/blocks.build.js:102008
+#: dist/blocks.build.js:103783 dist/blocks.build.js:104066
+#: dist/blocks.build.js:106000 dist/blocks.build.js:108664
+#: dist/blocks.build.js:110593
+msgid "Inset"
+msgstr "Incrusté"
+
+#: dist/blocks.build.js:21162 dist/blocks.build.js:111488
+msgid "Add a header to begin generating the table of contents"
+msgstr "Ajoutez un titre pour commencer la génération de la table des matières"
+
+#: dist/blocks.build.js:21822 dist/blocks.build.js:61272
+#: dist/blocks.build.js:63039 dist/blocks.build.js:72018
+#: dist/blocks.build.js:81429 dist/blocks.build.js:85731
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957 dist/blocks.build.js:96910
+msgid "H1"
+msgstr "H1"
+
+#: dist/blocks.build.js:21822 dist/blocks.build.js:61272
+#: dist/blocks.build.js:63039 dist/blocks.build.js:72018
+#: dist/blocks.build.js:81429 dist/blocks.build.js:85731
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957 dist/blocks.build.js:96910
+msgid "H2"
+msgstr "H2"
+
+#: dist/blocks.build.js:21822 dist/blocks.build.js:61272
+#: dist/blocks.build.js:63039 dist/blocks.build.js:72018
+#: dist/blocks.build.js:81429 dist/blocks.build.js:85731
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957 dist/blocks.build.js:96910
+msgid "H3"
+msgstr "H3"
+
+#: dist/blocks.build.js:21822 dist/blocks.build.js:61272
+#: dist/blocks.build.js:63039 dist/blocks.build.js:72018
+#: dist/blocks.build.js:81429 dist/blocks.build.js:85731
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957 dist/blocks.build.js:96910
+msgid "H4"
+msgstr "H4"
+
+#: dist/blocks.build.js:21822 dist/blocks.build.js:61272
+#: dist/blocks.build.js:63039 dist/blocks.build.js:72018
+#: dist/blocks.build.js:81429 dist/blocks.build.js:85731
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957 dist/blocks.build.js:96910
+msgid "H5"
+msgstr "H5"
+
+#: dist/blocks.build.js:21822 dist/blocks.build.js:61272
+#: dist/blocks.build.js:63039 dist/blocks.build.js:72018
+#: dist/blocks.build.js:81429 dist/blocks.build.js:85731
+#: dist/blocks.build.js:91232 dist/blocks.build.js:93586
+#: dist/blocks.build.js:94957 dist/blocks.build.js:96910
+msgid "H6"
+msgstr "H6"
+
+#: dist/blocks.build.js:21844 dist/blocks.build.js:93711
+#: dist/blocks.build.js:94669 dist/blocks.build.js:109717
+msgid "Heading Color"
+msgstr "Couleur du titre"
+
+#: dist/blocks.build.js:21901 dist/blocks.build.js:80906
+#: dist/blocks.build.js:91324
+msgid "Separator"
+msgstr "Séparateur"
+
+#: dist/blocks.build.js:21903 dist/blocks.build.js:61168
+#: dist/blocks.build.js:62940 dist/blocks.build.js:71919
+#: dist/blocks.build.js:78916 dist/blocks.build.js:80917
+#: dist/blocks.build.js:81112 dist/blocks.build.js:96641
+#: dist/blocks.build.js:110004
+msgid "Style"
+msgstr "Style"
+
+#: dist/blocks.build.js:21908 dist/blocks.build.js:61173
+#: dist/blocks.build.js:62945 dist/blocks.build.js:71924
+#: dist/blocks.build.js:77201 dist/blocks.build.js:78918
+#: dist/blocks.build.js:80922 dist/blocks.build.js:81117
+#: dist/blocks.build.js:83798 dist/blocks.build.js:91331
+#: dist/blocks.build.js:96646 dist/blocks.build.js:97938
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:108664 dist/blocks.build.js:110593
+msgid "Double"
+msgstr "Double"
+
+#: dist/blocks.build.js:21825 dist/blocks.build.js:21865
+#: dist/blocks.build.js:61145 dist/blocks.build.js:61260
+#: dist/blocks.build.js:61275 dist/blocks.build.js:61301
+#: dist/blocks.build.js:61328 dist/blocks.build.js:62917
+#: dist/blocks.build.js:63032 dist/blocks.build.js:63042
+#: dist/blocks.build.js:63068 dist/blocks.build.js:63095
+#: dist/blocks.build.js:72011 dist/blocks.build.js:72021
+#: dist/blocks.build.js:72047 dist/blocks.build.js:72074
+#: dist/blocks.build.js:77947 dist/blocks.build.js:77950
+#: dist/blocks.build.js:81010 dist/blocks.build.js:81378
+#: dist/blocks.build.js:81432 dist/blocks.build.js:81478
+#: dist/blocks.build.js:83487 dist/blocks.build.js:83494
+#: dist/blocks.build.js:83517 dist/blocks.build.js:83540
+#: dist/blocks.build.js:85723 dist/blocks.build.js:85740
+#: dist/blocks.build.js:85763 dist/blocks.build.js:85786
+#: dist/blocks.build.js:85809 dist/blocks.build.js:89029
+#: dist/blocks.build.js:91220 dist/blocks.build.js:91235
+#: dist/blocks.build.js:91258 dist/blocks.build.js:91281
+#: dist/blocks.build.js:93445 dist/blocks.build.js:93581
+#: dist/blocks.build.js:93617 dist/blocks.build.js:94960
+#: dist/blocks.build.js:94986 dist/blocks.build.js:95013
+#: dist/blocks.build.js:95040 dist/blocks.build.js:95067
+#: dist/blocks.build.js:96537 dist/blocks.build.js:96913
+#: dist/blocks.build.js:96953 dist/blocks.build.js:101875
+#: dist/blocks.build.js:101915 dist/blocks.build.js:102187
+#: dist/blocks.build.js:102346 dist/blocks.build.js:102510
+#: dist/blocks.build.js:102600 dist/blocks.build.js:103882
+#: dist/blocks.build.js:103923 dist/blocks.build.js:104245
+#: dist/blocks.build.js:104404 dist/blocks.build.js:104572
+#: dist/blocks.build.js:104760 dist/blocks.build.js:106473
+#: dist/blocks.build.js:106513 dist/blocks.build.js:106836
+#: dist/blocks.build.js:108162 dist/blocks.build.js:108185
+#: dist/blocks.build.js:109698 dist/blocks.build.js:109951
+msgid "Typography"
+msgstr "Typographie"
+
+#: dist/blocks.build.js:21908 dist/blocks.build.js:61173
+#: dist/blocks.build.js:62945 dist/blocks.build.js:71924
+#: dist/blocks.build.js:76837 dist/blocks.build.js:77201
+#: dist/blocks.build.js:77937 dist/blocks.build.js:78918
+#: dist/blocks.build.js:80922 dist/blocks.build.js:80997
+#: dist/blocks.build.js:81117 dist/blocks.build.js:81712
+#: dist/blocks.build.js:83676 dist/blocks.build.js:83798
+#: dist/blocks.build.js:84170 dist/blocks.build.js:85524
+#: dist/blocks.build.js:87019 dist/blocks.build.js:88904
+#: dist/blocks.build.js:91331 dist/blocks.build.js:91666
+#: dist/blocks.build.js:93536 dist/blocks.build.js:94849
+#: dist/blocks.build.js:96524 dist/blocks.build.js:96646
+#: dist/blocks.build.js:97052 dist/blocks.build.js:97938
+#: dist/blocks.build.js:98557 dist/blocks.build.js:99624
+#: dist/blocks.build.js:99989 dist/blocks.build.js:100502
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:106253 dist/blocks.build.js:108664
+#: dist/blocks.build.js:110593
+msgid "None"
+msgstr "Aucune"
+
+#: dist/blocks.build.js:21908 dist/blocks.build.js:61173
+#: dist/blocks.build.js:62945 dist/blocks.build.js:71924
+#: dist/blocks.build.js:77201 dist/blocks.build.js:78918
+#: dist/blocks.build.js:80922 dist/blocks.build.js:81117
+#: dist/blocks.build.js:83798 dist/blocks.build.js:91331
+#: dist/blocks.build.js:96646 dist/blocks.build.js:97938
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:108664 dist/blocks.build.js:110593
+msgid "Dashed"
+msgstr "Tirets"
+
+#: dist/blocks.build.js:21908 dist/blocks.build.js:61173
+#: dist/blocks.build.js:62945 dist/blocks.build.js:71924
+#: dist/blocks.build.js:77201 dist/blocks.build.js:78918
+#: dist/blocks.build.js:80922 dist/blocks.build.js:81117
+#: dist/blocks.build.js:83798 dist/blocks.build.js:91331
+#: dist/blocks.build.js:96646 dist/blocks.build.js:97938
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:108664 dist/blocks.build.js:110593
+msgid "Dotted"
+msgstr "Pointillés"
+
+#: dist/blocks.build.js:21944 dist/blocks.build.js:61176
+#: dist/blocks.build.js:62948 dist/blocks.build.js:71927
+#: dist/blocks.build.js:76280 dist/blocks.build.js:80957
+#: dist/blocks.build.js:81123 dist/blocks.build.js:84194
+#: dist/blocks.build.js:85558 dist/blocks.build.js:91682
+#: dist/blocks.build.js:96652 dist/blocks.build.js:99668
+#: dist/blocks.build.js:99797 dist/blocks.build.js:110078
+#: dist/blocks.build.js:110112 dist/blocks.build.js:110146
+msgid "Width"
+msgstr "Largeur"
+
+#: dist/blocks.build.js:21980 dist/blocks.build.js:60968
+#: dist/blocks.build.js:61423 dist/blocks.build.js:63190
+#: dist/blocks.build.js:72186 dist/blocks.build.js:76337
+#: dist/blocks.build.js:77921 dist/blocks.build.js:81517
+#: dist/blocks.build.js:83591 dist/blocks.build.js:85858
+#: dist/blocks.build.js:91442 dist/blocks.build.js:93545
+#: dist/blocks.build.js:95146 dist/blocks.build.js:96991
+#: dist/blocks.build.js:98057 dist/blocks.build.js:100068
+#: dist/blocks.build.js:102265 dist/blocks.build.js:104323
+#: dist/blocks.build.js:106680
+msgid "Spacing"
+msgstr "Espacement"
+
+#: dist/blocks.build.js:24698 dist/blocks.build.js:102502
+msgid "Default"
+msgstr "Par défaut"
+
+#: dist/blocks.build.js:6826
+msgid "Author Name"
+msgstr "Nom de l’auteur"
+
+#: dist/blocks.build.js:6194
+msgid "Write a Prefix"
+msgstr "Rédiger un préfixe"
+
+#: dist/blocks.build.js:6414 dist/blocks.build.js:7426
+#: dist/blocks.build.js:7722 dist/blocks.build.js:22041
+#: dist/blocks.build.js:85295 dist/blocks.build.js:85301
+#: dist/blocks.build.js:93946
+msgid "Write a Description"
+msgstr "Rédiger une description"
+
+#: dist/blocks.build.js:6273 dist/blocks.build.js:7643
+#: dist/blocks.build.js:22014 dist/blocks.build.js:93922
+msgid "Write a Heading"
+msgstr "Rédiger un titre"
+
+#: dist/blocks.build.js:778 dist/blocks.build.js:779 dist/blocks.build.js:780
+#: dist/blocks.build.js:78998 dist/blocks.build.js:79047
+#: dist/blocks.build.js:79096
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: dist/blocks.build.js:761 dist/blocks.build.js:762 dist/blocks.build.js:763
+#: dist/blocks.build.js:79173 dist/blocks.build.js:79222
+#: dist/blocks.build.js:79272
+msgid "Line Height"
+msgstr "Hauteur de ligne"
+
+#: dist/blocks.build.js:693 dist/blocks.build.js:15328
+msgid "Advanced"
+msgstr "Avancés"
+
+#: dist/blocks.build.js:689 dist/blocks.build.js:15324
+msgid "Hide Advanced"
+msgstr "Masquer les avancés"
+
+#: dist/blocks.build.js:8123 dist/blocks.build.js:95037
+#: dist/blocks.build.js:106510
+msgid "Author"
+msgstr "Auteur"
+
+#: dist/blocks.build.js:6923
+msgid "Company Name"
+msgstr "Nom de l'entreprise"
+
+#: dist/blocks.build.js:24801
+msgid "Font Family"
+msgstr "Font Family"
+
+#: dist/blocks.build.js:24821
+msgid "Font Subset"
+msgstr "Sous-ensemble de police"
+
+#: dist/blocks.build.js:24813
+msgid "Font Weight"
+msgstr "Épaisseur de la police"
+
+#: dist/blocks.build.js:21814 dist/blocks.build.js:93614
+#: dist/blocks.build.js:94949 dist/blocks.build.js:96902
+#: dist/blocks.build.js:109685
+msgid "Heading"
+msgstr "En-tête"
+
+#: dist/blocks.build.js:21982
+msgid "Heading Bottom Spacing (px)"
+msgstr "Espacement inférieur du titre (px)"
+
+#: dist/blocks.build.js:21817 dist/blocks.build.js:94952
+msgid "Heading Tag"
+msgstr "Étiquette d’en-tête"
+
+#: dist/blocks.build.js:7337 dist/blocks.build.js:91278
+msgid "Price"
+msgstr "Prix"
+
+#: dist/blocks.build.js:21994
+msgid "Separator Bottom Spacing (px)"
+msgstr "Espacement inférieur du séparateur (px)"
+
+#: dist/blocks.build.js:21961 dist/blocks.build.js:80970
+#: dist/blocks.build.js:91362
+msgid "Separator Color"
+msgstr "Couleur du séparateur"
+
+#: dist/blocks.build.js:21927 dist/blocks.build.js:59747
+#: dist/blocks.build.js:76300 dist/blocks.build.js:76363
+#: dist/blocks.build.js:76435 dist/blocks.build.js:76507
+#: dist/blocks.build.js:76608 dist/blocks.build.js:76680
+#: dist/blocks.build.js:76752 dist/blocks.build.js:78967
+#: dist/blocks.build.js:79016 dist/blocks.build.js:79065
+#: dist/blocks.build.js:79142 dist/blocks.build.js:79191
+#: dist/blocks.build.js:79241 dist/blocks.build.js:80940
+#: dist/blocks.build.js:85377 dist/blocks.build.js:85400
+#: dist/blocks.build.js:85423 dist/blocks.build.js:85446
+#: dist/blocks.build.js:86935 dist/blocks.build.js:86958
+#: dist/blocks.build.js:88843 dist/blocks.build.js:98083
+#: dist/blocks.build.js:98155 dist/blocks.build.js:98227
+#: dist/blocks.build.js:98328 dist/blocks.build.js:98400
+#: dist/blocks.build.js:98472 dist/blocks.build.js:100008
+#: dist/blocks.build.js:100094 dist/blocks.build.js:100166
+#: dist/blocks.build.js:100238 dist/blocks.build.js:100339
+#: dist/blocks.build.js:100389 dist/blocks.build.js:100439
+#: dist/blocks.build.js:101800 dist/blocks.build.js:102022
+#: dist/blocks.build.js:102435 dist/blocks.build.js:102743
+#: dist/blocks.build.js:103797 dist/blocks.build.js:104080
+#: dist/blocks.build.js:104493 dist/blocks.build.js:104706
+#: dist/blocks.build.js:105930 dist/blocks.build.js:105953
+#: dist/blocks.build.js:108371 dist/blocks.build.js:108419
+#: dist/blocks.build.js:108467 dist/blocks.build.js:109833
+#: dist/blocks.build.js:109871 dist/blocks.build.js:109909
+#: dist/blocks.build.js:110061 dist/blocks.build.js:110095
+#: dist/blocks.build.js:110129 dist/blocks.build.js:110250
+#: dist/blocks.build.js:110300 dist/blocks.build.js:110350
+#: dist/blocks.build.js:110428 dist/blocks.build.js:110478
+#: dist/blocks.build.js:110528
+msgid "Size Type"
+msgstr "Type de taille"
+
+#: dist/blocks.build.js:21908 dist/blocks.build.js:61173
+#: dist/blocks.build.js:62945 dist/blocks.build.js:71924
+#: dist/blocks.build.js:77201 dist/blocks.build.js:78918
+#: dist/blocks.build.js:80922 dist/blocks.build.js:81117
+#: dist/blocks.build.js:83798 dist/blocks.build.js:91331
+#: dist/blocks.build.js:96646 dist/blocks.build.js:97938
+#: dist/blocks.build.js:100805 dist/blocks.build.js:101786
+#: dist/blocks.build.js:102008 dist/blocks.build.js:103783
+#: dist/blocks.build.js:104066 dist/blocks.build.js:106000
+#: dist/blocks.build.js:108664 dist/blocks.build.js:110593
+msgid "Solid"
+msgstr "Solide"
+
+#: dist/blocks.build.js:21884
+msgid "Sub Heading Color"
+msgstr "Couleur du sous-titre"
+
+#: dist/blocks.build.js:21862
+msgid "Sub-Heading"
+msgstr "Sous-titre"
+
+#: dist/blocks.build.js:21914 dist/blocks.build.js:106003
+msgid "Thickness (px)"
+msgstr "Épaisseur (px)"
+
+#: dist/blocks.build.js:7007
+msgid "Write Description"
+msgstr "Ecriver une Description"
+
+#: dist/blocks.build.js:8046
+msgid "Write a Quote"
+msgstr "Ecrire une citation"
+
+#: dist/blocks.build.js:7246 dist/blocks.build.js:85338
+msgid "Write a Title"
+msgstr "Ecrire un titre"
+
+#: dist/blocks.build.js:21540
+msgid "advanced heading"
+msgstr "en-tête avancée"
+
+#: dist/blocks.build.js:21540
+msgid "heading"
+msgstr "en-tête"
+
+#: dist/blocks.build.js:59742 dist/blocks.build.js:60616
+#: dist/blocks.build.js:62578 dist/blocks.build.js:71462
+#: dist/blocks.build.js:80766 dist/blocks.build.js:83442
+#: dist/blocks.build.js:85373 dist/blocks.build.js:86931
+#: dist/blocks.build.js:88839 dist/blocks.build.js:91175
+#: dist/blocks.build.js:93347 dist/blocks.build.js:94477
+#: dist/blocks.build.js:96466 dist/blocks.build.js:101694
+#: dist/blocks.build.js:103691 dist/blocks.build.js:105889
+msgid "px"
+msgstr "px"
+
+#: dist/blocks.build.js:21540 dist/blocks.build.js:60209
+#: dist/blocks.build.js:62240 dist/blocks.build.js:71093
+#: dist/blocks.build.js:75943 dist/blocks.build.js:77732
+#: dist/blocks.build.js:80401 dist/blocks.build.js:83076
+#: dist/blocks.build.js:84966 dist/blocks.build.js:86721
+#: dist/blocks.build.js:87704 dist/blocks.build.js:88521
+#: dist/blocks.build.js:88658 dist/blocks.build.js:90860
+#: dist/blocks.build.js:92321 dist/blocks.build.js:94151
+#: dist/blocks.build.js:96255 dist/blocks.build.js:99257
+#: dist/blocks.build.js:101423 dist/blocks.build.js:103401
+#: dist/blocks.build.js:107828 dist/blocks.build.js:109254
+msgid "uag"
+msgstr "uag"
+
+#: admin/uagb-general.php:167
+msgid "Enabling this option will generate CSS files for Ultimate Addons for Gutenberg block styling instead of loading the CSS inline on page."
+msgstr "Activer cette option générera des fichiers CSS pour Ultimate Addons pour le style de bloc Gutenberg au lieu de charger le CSS en ligne sur la page."
+
+#. translators: %1$s: a tag open.
+#: admin/uagb-general.php:176
+msgid "Please read %1$s this article %2$s to know more."
+msgstr "Veuillez lire %1$s cette publication %2$s pour en savoir plus."
+
+#: admin/uagb-general.php:187
+msgid "Enable File Generation"
+msgstr "Activer la génération de fichier"
+
+#: admin/uagb-general.php:196
+msgid "Disable File Generation"
+msgstr "Désactiver la génération de fichier"
+
+#: lib/notices/class-astra-notices.php:120
+msgid "WordPress Nonce not validated."
+msgstr "Nonce WordPress non validé."
+
+#: classes/class-uagb-config.php:1664
+msgid "Table of Contents"
+msgstr "Table des matières"
+
+#: classes/class-uagb-config.php:1665
+msgid "This block allows you to place a Table of Contents for Pages/Posts."
+msgstr "Ce bloc vous permet de placer une table des matières pour les pages et publications."
+
+#: classes/class-uagb-admin.php:129
+msgid "Wow! The Ultimate Addons for Gutenberg has already powered over 5 pages on your website!"
+msgstr "Bravo ! Ultimate Addons for Gutenberg est déjà utilisé sur 5 pages de votre site web !"
+
+#: classes/class-uagb-config.php:551
+msgid "Gravity Form Styler"
+msgstr "Styliser Gravity Forms"
+
+#: classes/class-uagb-config.php:552
+msgid "This block allows you to add and style your Gravity Forms right in the Gutenberg editor."
+msgstr "Ce bloc vous permet d’ajouter et de styler vos formulaires Gravity Forms directement dans l’éditeur Gutenberg."
+
+#: classes/class-uagb-init-blocks.php:362
+msgid "You have not added any Gravity Forms yet."
+msgstr "Vous n’avez pas encore ajouté de formulaire Gravity Forms."
+
+#: classes/class-uagb-init-blocks.php:71
+msgid "Please select a valid Gravity Form."
+msgstr "Veuillez sélectionner un formulaire Gravity Form."
+
+#: classes/class-uagb-admin.php:130
+msgid "Would you please mind sharing your views and give it a 5 star rating on the WordPress repository?"
+msgstr "Souhaitez-vous partager votre avis et lui attribuer une note de 5 étoiles dans le référentiel WordPress ?"
+
+#: classes/class-uagb-config.php:957
+msgid "Marketing Button"
+msgstr "Bouton marketing"
+
+#: classes/class-uagb-config.php:958
+msgid "This block allows you to place a Marketing Button with small description."
+msgstr "Ce bloc vous permet de placer un bouton de marketing avec une petite description."
+
+#: admin/uagb-general.php:68
+msgid "Reusable Blocks"
+msgstr "Blocs réutilisables"
+
+#: classes/class-uagb-config.php:415
+msgid "Contact Form 7 Styler"
+msgstr "Styliser Contact Form 7"
+
+#: classes/class-uagb-config.php:416
+msgid "This block allows you to add and style your Contact Form 7 forms right in the Gutenberg editor."
+msgstr "Ce bloc vous permet d’ajouter et de styler vos formulaires Contact Form 7 directement dans l’éditeur Gutenberg."
+
+#: classes/class-uagb-init-blocks.php:315
+#: classes/class-uagb-init-blocks.php:348 dist/blocks.build.js:101972
+#: dist/blocks.build.js:103989
+msgid "Select Form"
+msgstr "Sélectionner un formulaire"
+
+#: classes/class-uagb-init-blocks.php:329
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Vous n’avez pas encore ajouté de formulaire Contact Form 7."
+
+#: classes/class-uagb-init-blocks.php:90
+msgid "Please select a valid Contact Form 7."
+msgstr "Veuillez sélectionner un formulaire Contact Form 7."
+
+#: classes/class-uagb-config.php:248
+msgid "Blockquote"
+msgstr "Citation"
+
+#: classes/class-uagb-config.php:249
+msgid "This block allows you to display your Blockquote."
+msgstr "Ce bloc vous permet d’afficher votre citation."
+
+#: classes/class-uagb-helper.php:1131
+msgid "Full"
+msgstr "Plein"
+
+#: admin/uagb-general.php:150
+msgid "Activate Astra Now!"
+msgstr "Activez Astra maintenant !"
+
+#: classes/class-uagb-admin.php:267
+msgid "Installing Astra"
+msgstr "Installation d’Astra"
+
+#: classes/class-uagb-admin.php:268
+msgid "Activating Astra"
+msgstr "Activation d’Astra"
+
+#: classes/class-uagb-admin.php:269
+msgid "Astra Activated!"
+msgstr "Astra activé !"
+
+#: classes/class-uagb-admin.php:455
+msgid "No Theme specified"
+msgstr "Aucun thème spécifié"
+
+#: classes/class-uagb-admin.php:474
+msgid "Theme Successfully Activated"
+msgstr "Thème bien activé"
+
+#. translators: %s: html tags
+#: classes/class-uagb-admin.php:154
+msgid "Ultimate Addons for Gutenberg requires&nbsp;%3$sBlock Editor%4$s. You can change your editor settings to Block Editor from&nbsp;%1$shere%2$s. Plugin is currently NOT RUNNING."
+msgstr "Ultimate Addons for Gutenberg nécessite %3$sl’éditeur de blocs%4$s. Vous pouvez modifier les réglages de votre éditeur de blocs par %1$sici%2$s. L’extension N’EST PAS EN FONCTIONNEMENT pour le moment."
+
+#: admin/uagb-general.php:41
+msgid "Thank you for choosing Ultimate Addons for Gutenberg - the most comprehensive library of advanced and creative blocks to build a stunning website and blog faster than ever before!"
+msgstr "Merci d’avoir choisi Ultimate Addons for Gutenberg - Bibliothèque la plus complète de blocs avancés et créatifs pour créer un site Web et un blog époustouflants plus rapidement que jamais !"
+
+#: admin/uagb-general.php:42
+msgid "How to use the Ultimate Addons for Gutenberg Blocks »"
+msgstr "Comment utiliser Ultimate Addons for Gutenberg Blocks »"
+
+#: admin/uagb-general.php:43
+msgid "Ready-to-use Full Demo Websites - "
+msgstr "Sites de démonstration prêts à l’emploi - "
+
+#: admin/uagb-general.php:43
+msgid "Get professionally designed 20+ pre-built FREE starter sites built using Gutenberg, Ultimate Addons for Gutenberg and the Astra theme. These can be imported in just a few clicks. Tweak them easily and build awesome websites in minutes!"
+msgstr "Obtenez plus de 20 sites de démarrage GRATUITS et pré-construits conçus par des professionnels, conçus avec Gutenberg, Ultimate Addons for Gutenberg et le thème Astra. Ceux-ci peuvent être importés en quelques clics. Modifiez-les facilement et créez des sites Web impressionnants en quelques minutes !"
+
+#: admin/uagb-general.php:44
+msgid "Know More »"
+msgstr "En savoir plus »"
+
+#: admin/uagb-general.php:53
+msgid "Ever-growing Library of Gutenberg Blocks"
+msgstr "Bibliothèque évolutive de blocs pour Gutenberg"
+
+#: admin/uagb-general.php:55
+msgid "The easy-to-use and extremely powerful blocks of the Ultimate Addons for Gutenberg (UAG) are now available within your Gutenberg Editor. Search for \"UAG\" in the block inserter and see all the Ultimate Addons for Gutenberg blocks listed below. Simply click on the block you wish to add on your page or post."
+msgstr "Les blocs faciles à utiliser et extrêmement puissants de Ultimate Addons for Gutenberg (UAG) sont maintenant disponibles dans votre éditeur Gutenberg. Recherchez « UAG » dans la palette de blocs et découvrez tous les blocs listés ci-dessous. Cliquez simplement sur le bloc que vous souhaitez ajouter à votre page ou à votre publication."
+
+#: admin/uagb-general.php:56
+msgid "Wish to see some real design implementations with these blocks?"
+msgstr "Vous souhaitez voir de réelles implémentations de conception avec ces blocs ?"
+
+#: admin/uagb-general.php:57
+msgid "See Demos »"
+msgstr "Voir les démos »"
+
+#: admin/uagb-general.php:58
+msgid "Check out the detailed knowledge base articles that will help you understand the working of each block."
+msgstr "Consultez les articles détaillés de la base de connaissances qui vous aideront à comprendre le fonctionnement de chaque bloc."
+
+#: admin/uagb-general.php:135
+msgid "Free Theme for Gutenberg"
+msgstr "Thème gratuit pour Gutenberg"
+
+#: admin/uagb-general.php:140
+msgid "Why Astra Theme?"
+msgstr "Pourquoi le thème Astra ?"
+
+#: admin/uagb-general.php:141
+msgid "Faster Performance - "
+msgstr "Performance plus rapide - "
+
+#: admin/uagb-general.php:142
+msgid "Easy Customization - "
+msgstr "Personnalisation facile - "
+
+#: admin/uagb-general.php:142
+msgid "With all the settings managed through the customizer, Astra keeps it simple and gives you lots of options to customize everything with a few clicks."
+msgstr "Avec tous les réglages gérés via l’outil de personnalisation, Astra reste simple et vous offre de nombreuses options pour tout personnaliser en quelques clics."
+
+#: admin/uagb-general.php:143
+msgid "Pixel Perfect Design - "
+msgstr "Design au pixel près - "
+
+#: admin/uagb-general.php:143
+msgid "Astra reduces your design time by giving you pixel-perfect FREE ready-to-use websites demos within a huge library of starter sites."
+msgstr "Astra réduit votre temps de conception en vous offrant des démos GRATUITES de sites Web prêtes à l’emploi, au pixel près, au sein d’une immense bibliothèque de sites de base."
+
+#: admin/uagb-general.php:148
+msgid "Install Astra Now!"
+msgstr "Installer Astra maintenant !"
+
+#: classes/class-uagb-config.php:1457
+msgid "Price List"
+msgstr "Liste de prix"
+
+#: classes/class-uagb-config.php:1458
+msgid "This block allows you to add attractive Price List."
+msgstr "Ce bloc vous permet d’ajouter une liste de prix."
+
+#: classes/class-uagb-init-blocks.php:108
+msgid "Ultimate Addons Blocks"
+msgstr "Ultimate Addons Blocks"
+
+#. translators: %s: PHP version
+#: ultimate-addons-for-gutenberg.php:38
+msgid "Ultimate Addons for Gutenberg requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr "Ultimate Addons for Gutenberg nécessite la version PHP %s+, l’extension NE PEUT PAS FONCTIONNER."
+
+#. translators: %s: WordPress version
+#: ultimate-addons-for-gutenberg.php:55
+msgid "Ultimate Addons for Gutenberg requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Ultimate Addons for Gutenberg nécessite la version WordPress %s+. Comme vous utilisez une version antérieure, l’extension NE PEUT PAS FONCTIONNER."
+
+#: admin/uagb-general.php:141
+msgid "Built with speed and performance in mind, Astra follows the best coding standards and lets you build faster loading and better performing websites."
+msgstr "Conçu pour être rapide et performant, Astra respecte les meilleures normes de codage et vous permet de créer des sites web plus rapides et plus performants."
+
+#: admin/uagb-general.php:139
+msgid "Join over 800,000+ active users empowering their websites with Astra! From beginners to industry leaders, everyone loves the Astra theme."
+msgstr "Joignez-vous à plus de 800 000 utilisateurs qui améliorent leurs sites web avec Astra ! Des débutants aux leaders de l’industrie, tout le monde aime le thème Astra."
+
+#: admin/uagb-general.php:39
+msgid "Welcome to the Ultimate Addons for Gutenberg!"
+msgstr "Bienvenue dans Ultimate Addons for Gutenberg !"
+
+#: classes/class-uagb-admin.php:132
+msgid "Ok, you deserve it"
+msgstr "Ok, vous le méritez"
+
+#: classes/class-uagb-admin.php:134
+msgid "Nope, maybe later"
+msgstr "Non, peut-être plus tard"
+
+#: classes/class-uagb-admin.php:135
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: classes/class-uagb-config.php:89
+msgid "Advanced Columns"
+msgstr "Colonnes avancées"
+
+#: classes/class-uagb-config.php:175
+msgid "Column"
+msgstr "Colonne"
+
+#: classes/class-uagb-config.php:176
+msgid "This block is an immediate child of Advanced Columns."
+msgstr "Ce bloc est un enfant immédiat des colonnes avancées."
+
+#: classes/class-uagb-config.php:90
+msgid "This block gives you advanced options to insert a number of columns within a single row."
+msgstr "Ce bloc vous donne des options avancées pour insérer plusieurs colonnes dans une seule ligne."
+
+#: classes/class-uagb-config.php:344 dist/blocks.build.js:80990
+msgid "Call To Action"
+msgstr "Appel à l’action"
+
+#: classes/class-uagb-config.php:345
+msgid "This block allows you to place an CTA along with a heading and description within a single block."
+msgstr "Ce bloc vous permet de placer un appel à l’action avec un titre et une description dans un seul bloc."
+
+#: classes/class-uagb-config.php:1272
+msgid "Post Masonry"
+msgstr "Publications Masonry"
+
+#: classes/class-uagb-config.php:1273
+msgid "This block fetches the blog posts you may have on your website and displays them in a masonry layout."
+msgstr "Ce bloc récupère les articles du blog que vous avez sur votre site web et les affiche dans une mise en page avec effet Masonry."
+
+#: admin/uagb-admin.php:31
+msgid "View Demos"
+msgstr "Voir les démos"
+
+#: classes/class-uagb-config.php:1083
+msgid "Post Carousel"
+msgstr "Carrousel de publications"
+
+#: classes/class-uagb-config.php:1084
+msgid "This block fetches the blog posts you may have on your website and displays them in a carousel layout."
+msgstr "Ce bloc récupère les publications du blog que vous avez sur votre site web et les affiche dans un carrousel."
+
+#: classes/class-uagb-config.php:1356
+msgid "Post Timeline"
+msgstr "Chronologie de publications"
+
+#: dist/blocks/post-timeline/index.php:561
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: dist/blocks/post-timeline/index.php:39
+msgid "No posts found"
+msgstr "Aucune publication trouvée"
+
+#. Description of the plugin
+msgid "The Ultimate Addons for Gutenberg extends the Gutenberg functionality with several unique and feature-rich blocks that help build websites faster."
+msgstr "Ultimate Addons for Gutenberg étend les fonctionnalités de Gutenberg avec plusieurs blocs uniques qui permettent de créer des sites web plus rapidement."
+
+#: classes/class-uagb-config.php:1357
+msgid "The Timeline block lets you create beautiful timelines of Posts on your website."
+msgstr "Le bloc de chronologie de publications vous permet de créer des chronologies de publications sur votre site web."
+
+#: classes/class-uagb-config.php:786
+msgid "Icon List"
+msgstr "Liste avec icônes"
+
+#: classes/class-uagb-config.php:787 classes/class-uagb-config.php:840
+#: classes/class-uagb-config.php:1648
+msgid "This block allows you to place an image or icon in a list format."
+msgstr "Ce bloc vous permet de placer une image ou une icône dans un format de liste."
+
+#: classes/class-uagb-config.php:796
+msgid "Label #1"
+msgstr "Libellé N°1"
+
+#: classes/class-uagb-config.php:1834 dist/blocks.build.js:83491
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: dist/blocks.build.js:4954 dist/blocks.build.js:5024
+#: dist/blocks.build.js:95832 dist/blocks.build.js:95897
+msgid "(Untitled)"
+msgstr "(Sans titre)"
+
+#: classes/class-uagb-config.php:1835
+msgid "This block helps your display some amazing client feedback within your website."
+msgstr "Ce bloc vous permet d’afficher des retours clients sur votre site web."
+
+#: classes/class-uagb-config.php:704 dist/blocks.build.js:92321
+msgid "Content Timeline"
+msgstr "Chronologie de contenu"
+
+#: classes/class-uagb-config.php:1611
+msgid "Social Share"
+msgstr "Partage social"
+
+#: classes/class-uagb-config.php:1612
+msgid "This block allows you to let users share your content across various social networking sites."
+msgstr "Ce bloc vous permet de d’autoriser les visiteurs à partager votre contenu sur différents réseaux sociaux."
+
+#: classes/class-uagb-config.php:1762
+msgid "Team"
+msgstr "Équipe"
+
+#: classes/class-uagb-config.php:1763
+msgid "This block allows you to display your team. Add their picture, name, what they do and links to their social profiles."
+msgstr "Ce bloc vous permet d’afficher votre équipe. Ajoutez leur photo, leur nom, leur travail et des liens vers leurs profils sociaux."
+
+#: classes/class-uagb-config.php:705
+msgid "The Timeline block lets you create beautiful timelines on your website."
+msgstr "Le bloc de chronologie de contenu vous permet de créer des chronologies sur votre site web."
+
+#: admin/uagb-general.php:23
+msgid "Submit a Ticket »"
+msgstr "Ouvrir un ticket »"
+
+#: admin/uagb-general.php:59 admin/uagb-general.php:214
+msgid "Visit Knowledge Base »"
+msgstr "Voir la base de connaissances »"
+
+#: admin/uagb-general.php:64
+msgid "Blocks"
+msgstr "Blocs"
+
+#: admin/uagb-general.php:66
+msgid "Activate All"
+msgstr "Tout activer"
+
+#: admin/uagb-general.php:67
+msgid "Deactivate All"
+msgstr "Tout désactiver"
+
+#: classes/class-uagb-admin.php:263 admin/uagb-general.php:91
+msgid "Activate"
+msgstr "Activer"
+
+#: classes/class-uagb-admin.php:264 admin/uagb-general.php:98
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: admin/uagb-general.php:208
+msgid "Knowledge Base"
+msgstr "Base de connaissances"
+
+#: admin/uagb-general.php:212
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr "Vous ne savez pas comment quelque chose fonctionne ? Jetez un coup d’œil à la base de connaissances et apprenez."
+
+#: classes/class-uagb-admin.php:265
+msgid "Enable Beta Updates"
+msgstr "Activer les mises à jour bêta"
+
+#: classes/class-uagb-admin.php:266
+msgid "Disable Beta Updates"
+msgstr "Désactiver les mises à jour bêta"
+
+#: classes/class-uagb-config.php:47
+msgid "This block lets you add a combination of a heading and a sub-heading with a separator in between."
+msgstr "Ce bloc vous permet d’ajouter une combinaison d’un titre et d’un sous-titre avec un séparateur entre les deux."
+
+#: classes/class-uagb-config.php:777
+msgid "This block allows you to place a Google Map Location."
+msgstr "Ce bloc vous permet de placer un emplacement sur une carte Google."
+
+#: classes/class-uagb-config.php:862
+msgid "This block allows you to place an image or icon along with a heading and description within a single block."
+msgstr "Ce bloc vous permet de placer une image ou une icône avec une en-tête et une description dans un seul bloc."
+
+#: classes/class-uagb-config.php:1032
+msgid "This block allows you to add multiple buttons with a single block."
+msgstr "Ce bloc vous permet d’ajouter plusieurs boutons avec un seul bloc."
+
+#: classes/class-uagb-config.php:1173
+msgid "Post Grid"
+msgstr "Grille de publications"
+
+#: classes/class-uagb-config.php:1174
+msgid "This block fetches the blog posts you may have on your website and displays them in a grid layout."
+msgstr "Ce bloc récupère les publications du blog que vous vous sur votre site Web et les affiche sous forme de grille."
+
+#. translators: %1$s: uagb name.
+#: admin/uagb-general.php:227
+msgid "Got a question? Get in touch with %1$s developers. We're happy to help!"
+msgstr "Vous avez une question ? Entrez en contact avec les développeurs de %1$s. Nous serons heureux de vous aider !"
+
+#: classes/class-uagb-config.php:1531
+msgid "This block is an outer wrap section that allows you to add other blocks within it."
+msgstr "Ce bloc est une section englobante externe qui vous permet d’y ajouter d’autres blocs."
+
+#: admin/uagb-general.php:220
+msgid "Five Star Support"
+msgstr "Votre soutien de cinq étoiles"
+
+#: dist/blocks.build.js:60689 dist/blocks.build.js:62650
+#: dist/blocks.build.js:71534 dist/blocks.build.js:77898
+#: dist/blocks.build.js:84040 dist/blocks.build.js:87004
+#: dist/blocks.build.js:88461 dist/blocks.build.js:88889
+#: dist/blocks.build.js:91540 dist/blocks.build.js:93469
+#: dist/blocks.build.js:101970 dist/blocks.build.js:103987
+#: dist/blocks.build.js:108061 dist/blocks.build.js:109571
+msgid "General"
+msgstr "Général"
+
+#: admin/uagb-admin.php:30
+msgid "Take Gutenberg to The Next Level! - "
+msgstr "Portez Gutenberg au niveau supérieur ! - "
+
+#: classes/class-uagb-config.php:776
+msgid "Google Map"
+msgstr "Carte Google"
+
+#: classes/class-uagb-config.php:861
+msgid "Info Box"
+msgstr "Boîte d’info"
+
+#: classes/class-uagb-config.php:1031
+msgid "Multi Buttons"
+msgstr "Multi boutons"
+
+#: classes/class-uagb-config.php:1530
+msgid "Section"
+msgstr "Section"
+
+#: classes/class-uagb-config.php:46 dist/blocks.build.js:21810
+msgid "Advanced Heading"
+msgstr "En-tête avancé"
+
+#: classes/class-uagb-config.php:1163 classes/class-uagb-config.php:1246
+#: classes/class-uagb-config.php:1346 dist/blocks/post/index.php:420
+#: dist/blocks/post/index.php:860 dist/blocks/post/index.php:1275
+#: dist/blocks/post/index.php:1965 dist/blocks.build.js:5282
+msgid "Read More"
+msgstr "Lire la suite"
+
+#. Plugin Name of the plugin
+#: admin/uagb-general.php:33
+msgid "Ultimate Addons for Gutenberg"
+msgstr "Ultimate Addons for Gutenberg"
+
+#: classes/class-uagb-loader.php:159
+msgid "Activate Gutenberg"
+msgstr "Activer Gutenberg"
+
+#: classes/class-uagb-loader.php:166
+msgid "Install Gutenberg"
+msgstr "Installer Gutenberg"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. translators: %s: html tags
+#: classes/class-uagb-loader.php:149
+msgid "The %1$sUltimate Addon for Gutenberg%2$s plugin requires %1$sGutenberg%2$s plugin installed & activated."
+msgstr "L’extension %1$sUltimate Addon for Gutenberg%2$s nécessite que l’extension %1$sGutenberg%2$s soit installée et activée."
